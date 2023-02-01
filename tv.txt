@@ -1,5 +1,7 @@
 ﻿#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
+#EXTINF:-1 group-title="HBO", 101 Uno
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
@@ -1203,7 +1205,6 @@ http://bgapp.live/play/futvall-199.php?id=YmFzaWNv&token=bbblackg&dos=kingof&f=.
 http://bgapp.live/play/futvall-199.php?id=a2lkcw==&token=bbblackg&dos=kingof&f=.m3u8
 #EXTINF:-1 group-title="Lista 22",  PREMIUM TV
 http://bgapp.live/play/futvall-199.php?id=cHJlbWl1bQ==&token=bbblackg&dos=kingof&f=.m3u8
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 9-ATV
 http://168.194.171.33:8000/play/a01x/index.m3u8
