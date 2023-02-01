@@ -1,0 +1,2626 @@
+﻿#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+
+
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1975&f=.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="RECOMENDADOS",ESPN 2
+http://bgapp.live/play/futvall-199.php?id=ZXNwbjItbXg=&token=bbblackg&f=.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="RECOMENDADOS",ESPN 3
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=520&f=.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="RECOMENDADOS",Fox Sports
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=527&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="RECOMENDADOS",Fox Sports 3
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
+http://bgapp.live/play/futvall-199.php?id=YWZpenppb25hZG9z&token=bbblackg&f=.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,Univisión 41 NY
+https://v-ny.mybtv.net/live/643.m3u8
+
+
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=23&f=.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=104&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="INFORMACIÓN",Teleformula
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="LOCALES",ADN 40
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=140&f=.m3u8
+#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="ENTRETENIMIENTO",Corazón
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
+#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="ENTRETENIMIENTO",Mundo
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=276&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+#EXTINF:-1 tvg-id="XHCTRMTDT4.mx" tvg-name="Imagen Multicast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="LOCALES",Imagen Multicast
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=167&f=.m3u8
+#EXTINF:-1 tvg-id="XHAWTDT.mx" tvg-name="Canal 6 Monterrey (XHAW-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 Monterrey (XHAW-TDT)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2305&f=.m3u8
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="LOCALES",Ingenio TV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=401&f=.m3u8
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-name="Meganoticias MX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="INFORMACIÓN",Meganoticias MX
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
+#EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="Canal 8 Monterrey (XHCNL-TDT)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhcnl.png" group-title="REGIONALES",Canal 8 Monterrey (XHCNL-TDT)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
+#EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="Canal 4 Puebla" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="REGIONALES",Canal 4 Puebla
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="LOCALES",A+
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+ (XHFN-TDT2)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="REGIONALES",A+ (XHFN-TDT2)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="LOCALES",Canal Total
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1973&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tplogo.png" group-title="LOCALES",Totalplay
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2361&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ftp.jpg" group-title="LOCALES",Familia Totalplay
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1977&f=.m3u8
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="KIDS",Tooncast
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=328&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="KIDS",Discovery Kids
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=303&f=.m3u8
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="KIDS",Nick
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=315&f=.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="KIDS",Cartoon Network
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=320&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=312&f=.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/boom.png" group-title="KIDS",Cartoonito
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=324&f=.m3u8
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png" group-title="KIDS",Baby TV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=116&f=.m3u8
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="KIDS",Nick Jr.
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=310&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="KIDS",Disney Junior
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=308&f=.m3u8
+#EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="KIDS",Baby First
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1984&f=.m3u8
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="Teennick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnick.png" group-title="KIDS",Teennick
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2147&f=.m3u8
+#EXTINF:-1 tvg-id="Bitme.mx" tvg-name="BitMe" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bit.png" group-title="KIDS",BitMe
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
+#EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="CINE",A3 Cine
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=3112&f=.m3u8
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="ENTRETENIMIENTO",TBS
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=273&f=.m3u8
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="CINE",De Película Plus
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="CINE",Golden Plus
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=436&f=.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="CINE",Golden
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="CINE",Golden Edge
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=484&f=.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE",TNT
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="CINE",TCM
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=496&f=.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="CINE",Space
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=445&f=.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="CINE",AMC
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="CINE",Studio Universal
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="CINE",I-Sat
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=495&f=.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/europa.png" group-title="CINE",Europa Europa
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=136&f=.m3u8
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film & Arts" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/filmarts.jpg" group-title="CINE",Film & Arts
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=137&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="" group-title="PREMIUM",PREMIUM
+http://&f=.m3u8
+#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/morbido.png" group-title="CINE",Morbido TV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=470&f=.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="CINE",Cinecanal
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=430&f=.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatino.png" group-title="CINE",De Película
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="CINE",Paramount Network
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=425&f=.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENIMIENTO",Star Channel
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENIMIENTO",Sony Channel
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENIMIENTO",Warner
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="ENTRETENIMIENTO",E!
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=255&f=.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENIMIENTO",Universal
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENIMIENTO",SYFY
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=257&f=.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENIMIENTO",FX
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENIMIENTO",A&E
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENIMIENTO",AXN
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2507&f=.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENIMIENTO",TNT Series
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="ENTRETENIMIENTO",Glitz
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=270&f=.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="ENTRETENIMIENTO",ElGourmet
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=268&f=.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="ENTRETENIMIENTO",Distrito Comedia
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="ENTRETENIMIENTO",TruTV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=215&f=.m3u8
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="ENTRETENIMIENTO",Tlnovelas
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="ENTRETENIMIENTO",Lifetime
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.mx" tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=199&f=.m3u8
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="ENTRETENIMIENTO",¡Hola! TV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=219&f=.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="ENTRETENIMIENTO",Comedy Central
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENIMIENTO",Unicable
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png" group-title="ENTRETENIMIENTO",Mas Chic
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=221&f=.m3u8
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="ENTRETENIMIENTO",A3 Series
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2113&f=.m3u8
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTES",ESPN Extra
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=516&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=558&f=.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=527&f=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1975&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
+#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="DEPORTES",Golf Channel
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=179&f=.m3u8
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg" group-title="DEPORTES",AYM Sports
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=576&f=.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="DEPORTES",ESPN 3
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=520&f=.m3u8
+#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PXSports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pxs.png" group-title="DEPORTES",PXSports
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=528&f=.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="DEPORTES",Adrenalina Sports Network
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1799&f=.m3u8
+#EXTINF:-1 tvg-id="LatinAmericanSports.mx" tvg-name="Latin American Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png" group-title="DEPORTES",Latin American Sports
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2089&f=.m3u8
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png" group-title="DEPORTES",TVC Deportes
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2157&f=.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",Claro Sports (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
+#EXTINF:-1 tvg-id="FuelTV(English).de" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="DEPORTES",Fuel TV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2587&f=.m3u8
+#EXTINF:-1 tvg-id="ElGarage.ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="DEPORTES",Garage TV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=269&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=371&f=.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2378&f=.m3u8
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=377&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO",Discovery Theater HD
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=351&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=374&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" group-title="CONOCIMIENTO",Discovery Science
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=381&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO",Discovery World HD
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=356&f=.m3u8
+#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENIMIENTO",ID
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png" group-title="ENTRETENIMIENTO",TVE Internacional
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=651&f=.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="CONOCIMIENTO",Food Network
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2145&f=.m3u8
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="TVE Star HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png" group-title="ENTRETENIMIENTO",TVE Star HD
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2375&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="CONOCIMIENTO",Discovery Turbo
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="CONOCIMIENTO",TLC
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png" group-title="CONOCIMIENTO",HGTV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
+#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="CONOCIMIENTO",Curiosity Stream
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2594&f=.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MUSICA",Teleritmo
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=1943&f=.m3u8
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="MUSICA",MTV Live HD
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=701&f=.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENIMIENTO",MTV
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=726&f=.m3u8
+#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="MUSICA",MTV Hits
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=727&f=.m3u8
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv80.png" group-title="MUSICA",MTV 80s
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=728&f=.m3u8
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png" group-title="MUSICA",Nickmusic
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=314&f=.m3u8
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MUSICA",MTV 00s
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=735&f=.m3u8
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Música" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png" group-title="MUSICA",Telehit Música
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=731&f=.m3u8
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="MUSICA",Telehit Música Plus
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=702&f=.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="MUSICA",Bandamax
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=732&f=.m3u8
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="ENTRETENIMIENTO",Clic
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=725&f=.m3u8
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MUSICA",MTV 00s (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=703&f=.m3u8
+#EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN International (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="INFORMACIÓN",CNN International (HD)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=185&f=.m3u8
+#EXTINF:-1 tvg-id="CNNInternational(English).mx" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="INFORMACIÓN",CNN International
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=186&f=.m3u8
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="INFORMACIÓN",CNN En Español
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
+#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="WOBI" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wobi.png" group-title="INFORMACIÓN",WOBI
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=387&f=.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxn.png" group-title="INFORMACIÓN",Fox News
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=188&f=.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bloom.png" group-title="INFORMACIÓN",Bloomberg
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=190&f=.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews(English).mx" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bbcwn.png" group-title="INFORMACIÓN",BBC World News
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=191&f=.m3u8
+#EXTINF:-1 tvg-id="AlJazeera(English).mx" tvg-name="Al Jaazera" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/alj.png" group-title="INFORMACIÓN",Al Jaazera
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=192&f=.m3u8
+#EXTINF:-1 tvg-id="NTN24NuestraTeleNoticias24.mx" tvg-name="Nuestra Tele Noticias 24" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ntn24.png" group-title="INFORMACIÓN",Nuestra Tele Noticias 24
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=194&f=.m3u8
+#EXTINF:-1 tvg-id="HLN.mx" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hln.png" group-title="INFORMACIÓN",HLN
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=197&f=.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INFORMACIÓN",DW (Español)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=654&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVG" tvg-logo="" group-title="INFORMACIÓN",TVG
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=802&f=.m3u8
+#EXTINF:-1 tvg-id="RT(English).ca" tvg-name="RT (English)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (English)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=999&f=.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="El Financiero Bloomberg" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="INFORMACIÓN",El Financiero Bloomberg
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2167&f=.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2091&f=.m3u8
+#EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France 24 (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png" group-title="INFORMACIÓN",France 24 (Español)
+https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo02.php?tokennn=Regio&c=2402&f=.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES", 101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 102 Dos
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 151 CV Shoping
+http://190.61.102.67:31589/play/a011/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 152 MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 154 EXA TV
+http://190.61.102.67:31589/play/a06e/index.m3u8
+#EXTINF:-1 group-title="CINE", 158 MC
+http://190.61.102.67:31589/play/a01d/index.m3u8
+#EXTINF:-1 group-title="CINE", 160 MultiPremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:-1 group-title="CINE", 162 CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:-1 group-title="CINE", 226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 234 ID
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", 29-236 DH&H
+http://190.61.102.67:31589/play/a03g/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", 240 TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 242 Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 246 HOLA
+http://190.61.102.67:31589/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 248 E!
+http://190.61.102.67:31589/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 250 TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 264 EXATV
+http://190.61.102.67:31589/play/a00p/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 266 MejorTV
+http://190.61.102.67:31589/play/a00q/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 276 TELER
+http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 280 OnceKids
+http://190.61.102.67:31589/play/a04f/index.m3u8
+#EXTINF:-1 group-title="KIDS", 282 DisneyJR
+http://190.61.102.67:31589/play/a03j/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 285 - Nick Music
+http://190.61.102.67:31589/play/a00r/index.m3u8
+#EXTINF:-1 group-title="KIDS", 27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 288 EXA TV
+http://190.61.102.67:31589/play/a00s/index.m3u8
+#EXTINF:-1 group-title="KIDS", 23 - 290 CartoonNetwork
+http://190.61.102.67:31589/play/a03k/index.m3u8
+#EXTINF:-1 group-title="KIDS", 25-292 Discovery kids
+http://190.61.102.67:31589/play/a015/index.m3u8
+#EXTINF:-1 group-title="LOCALES", 306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", 308 Discovery
+http://190.61.102.67:31589/play/a03x/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", 312 NatGeo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", 318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", 320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1 group-title="MUSICA", 322 Arts
+http://190.61.102.67:31589/play/a04j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", 336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", 338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", 342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", 344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", 350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", 353 RT
+http://190.61.102.67:31589/play/a01n/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", 356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", 358 MN MX
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", 360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
+#EXTINF:-1 group-title="CINE", 31-370 TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:-1 group-title="CINE", 372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CINE", 378 CineCanal O
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:-1 group-title="CINE", 386 StudioUniversal
+http://190.61.102.67:31589/play/a04o/index.m3u8
+#EXTINF:-1 group-title="CINE", 388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", AGROTENDENCIA
+http://190.61.102.67:31589/play/a08b/index.m3u8
+#EXTINF:-1 group-title="MUSICA", BANDAMAX
+http://190.61.102.67:31589/play/a08h/index.m3u8
+#EXTINF:-1 group-title="CINE", GOLDEN EDGE
+http://190.61.102.67:31589/play/a08k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", SKY LA LIGA
+http://190.61.102.67:31589/play/a08m/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TELENOVELAS
+http://190.61.102.67:31589/play/a08d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TN23
+http://190.61.102.67:31589/play/a08g/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="XHJKTDT2.mx" group-title="LOCALES", ADN 40 1.2 (-2h)
+https://v-sd.mybtv.net/live/484.m3u8
+#EXTINF:-1 tvg-id="XHCTTITDT.mx" group-title="LOCALES", Imagen Televisión 3.1 (-2h)
+https://v-sd.mybtv.net/live/485.m3u8
+#EXTINF:-1 tvg-id="XETVTDT.mx" group-title="LOCALES", Canal 5 16.1 (-2h)
+https://v-sd.mybtv.net/live/486.m3u8
+#EXTINF:-1 tvg-id="XHTJBTDT2.mx" group-title="LOCALES", Once Niñas y Niños 11.2 (-2h)
+https://v-sd.mybtv.net/live/496.m3u8
+#EXTINF:-1 tvg-id="XHTITTDT2.mx" group-title="LOCALES", A Mas 21.2 (-2h)
+https://v-sd.mybtv.net/live/503.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOCALES", Canal 6 45.1 (-2h)
+https://v-sd.mybtv.net/live/515.m3u8
+#EXTINF:-1 tvg-id="XHDTVTDT.mx" group-title="LOCALES", Milenio Televisión 49.1
+https://v-sd.mybtv.net/live/521.m3u8
+#EXTINF:-1 tvg-id="XHUAATDT.mx" group-title="LOCALES", Las Estrellas 57.1 (-2h)
+https://v-sd.mybtv.net/live/530.m3u8
+#EXTINF:-1 tvg-id="XHCTTITDT2.mx" group-title="LOCALES", Imagen Multicast 3.4 (-2h)
+https://v-sd.mybtv.net/live/539.m3u8
+#EXTINF:-1 tvg-id="XHJKTDT.mx" group-title="LOCALES", Azteca Uno 1.1 (-2h)
+https://v-sd.mybtv.net/live/760.m3u8
+#EXTINF:-1 tvg-id="XETVTDT2.mx" group-title="LOCALES", NU9VE 16.2 (-2h)
+https://v-sd.mybtv.net/live/761.m3u8
+#EXTINF:-1 tvg-id="XHUAATDT2.mx" group-title="LOCALES", Foro 57.2 (-2h)
+https://v-sd.mybtv.net/live/762.m3u8
+
+
+#EXTINF:-1 tvg-id="KSAZDT.us" group-title="USA LOCAL", FOX 10 AZ
+https://v-px.mybtv.net/live/14.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", CBS 5 AZ
+https://v-px.mybtv.net/live/48.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 62 LA
+https://v-la.mybtv.net/live/112.m3u8
+#EXTINF:-1 tvg-id="LATVNetworks(Spanish).us" group-title="USA LOCAL", LATV CA
+https://v-ca.mybtv.net/live/129.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 50 CA
+https://v-ca.mybtv.net/live/137.m3u8
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="USA LOCAL", Telemundo 48 CA
+https://v-ca.mybtv.net/live/140.m3u8
+#EXTINF:-1 tvg-id="Unimas(Pacific)(Spanish).us" group-title="USA LOCAL", UniMás 46 LA
+https://v-la.mybtv.net/live/168.m3u8
+#EXTINF:-1 tvg-id="KMEXDT(Spanish).us" group-title="USA LOCAL", Univisión 34 LA
+https://v-la.mybtv.net/live/178.m3u8
+#EXTINF:-1 tvg-id="KWHYDT(Spanish).us" group-title="USA LOCAL", KWHY 22 LA
+https://v-la.mybtv.net/live/298.m3u8
+#EXTINF:-1 tvg-id="KTVKDT.us" group-title="USA LOCAL", CBS 3 IN
+https://v-pi.mybtv.net/live/318.m3u8
+#EXTINF:-1 tvg-id="WTXFDT.us" group-title="USA LOCAL", FOX 29 IN
+https://v-pi.mybtv.net/live/369.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" group-title="USA LOCAL", Estrella TV 9 SD
+https://v-sd.mybtv.net/live/490.m3u8
+#EXTINF:-1 tvg-id="KNSDDT.us" group-title="USA LOCAL", NBC 7 SD
+https://v-sd.mybtv.net/live/512.m3u8
+#EXTINF:-1 tvg-id="WNBCDT.us" group-title="USA LOCAL", NBC NY
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1 tvg-id="WFOXDT.us" group-title="USA LOCAL", FOX NY
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1 tvg-id="WABCDT.us" group-title="USA LOCAL", ABC NY
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1 tvg-id="WABCDT2.us" group-title="USA LOCAL", ABCISH
+https://v-ny.mybtv.net/live/555.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", My Network TV
+https://v-ny.mybtv.net/live/559.m3u8
+#EXTINF:-1 tvg-id="WDCW.us" group-title="USA LOCAL", The CW NY
+https://v-ny.mybtv.net/live/562.m3u8
+#EXTINF:-1 tvg-id="ClassicRewind.us" group-title="USA LOCAL", Rewind TV
+https://v-ny.mybtv.net/live/565.m3u8
+#EXTINF:-1 tvg-id="WNETDT.us" group-title="USA LOCAL", PBS WNET 13 NY
+https://v-ny.mybtv.net/live/567.m3u8
+#EXTINF:-1 tvg-id="WNETDT2.us" group-title="USA LOCAL", PBS KIDS
+https://v-ny.mybtv.net/live/568.m3u8
+#EXTINF:-1 tvg-id="WLIWDT.us" group-title="USA LOCAL", PBS WLIW 21 GC
+https://v-ny.mybtv.net/live/575.m3u8
+#EXTINF:-1 tvg-id="WLIWDT2.us" group-title="USA LOCAL", PBS CREATE
+https://v-ny.mybtv.net/live/576.m3u8
+#EXTINF:-1 tvg-id="WLIWDT3.us" group-title="USA LOCAL", PBS WORLD
+https://v-ny.mybtv.net/live/577.m3u8
+#EXTINF:-1 tvg-id="WLIWDT4.us" group-title="USA LOCAL", ALL ARTS
+https://v-ny.mybtv.net/live/578.m3u8
+#EXTINF:-1 tvg-id="BounceTV.us" group-title="USA LOCAL", Bounce
+https://v-ny.mybtv.net/live/581.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", NYC Life
+https://v-ny.mybtv.net/live/591.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", NYC Gov
+https://v-ny.mybtv.net/live/592.m3u8
+#EXTINF:-1 tvg-id="MeTVNetwork.us" group-title="USA LOCAL", MeTV
+https://v-ny.mybtv.net/live/637.m3u8
+#EXTINF:-1 tvg-id="WXTVDT(Spanish).us" group-title="USA LOCAL", Univisión 41 NY
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1 tvg-id="WNJUDT(Spanish).us" group-title="USA LOCAL", Telemundo 47 NY
+https://v-ny.mybtv.net/live/659.m3u8
+#EXTINF:-1 tvg-id="KNSODT2(Spanish).us" group-title="USA LOCAL", TeleXitos FN
+https://v-fn.mybtv.net/live/873.m3u8
+#EXTINF:-1 tvg-id="NuestraVision(Spanish).us" group-title="USA LOCAL", Nuestra Visión FN
+https://v-fn.mybtv.net/live/891.m3u8
+#EXTINF:-1 tvg-id="Novelisima(Spanish).us" group-title="USA LOCAL", Novelísima FN
+https://v-fn.mybtv.net/live/946.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", Bein Ñ Sports Xtra
+https://v-fn.mybtv.net/live/948.m3u8
+#EXTINF:-1 tvg-id="LATVNetworks(Spanish).us" group-title="USA LOCAL", LATV LV
+https://v-lv.mybtv.net/live/1026.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA LOCAL", Nuestra Visión LV
+https://v-lv.mybtv.net/live/1036.m3u8
+#EXTINF:-1 tvg-id="KMPHDT.us" group-title="USA LOCAL", Fox 26 FN
+https://v-fn.mybtv.net/live/1092.m3u8
+#EXTINF:-1 tvg-id="Enlace.us" group-title="RELIGIÓN", Enlace
+https://v-la.mybtv.net/live/96.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Majestad TV
+https://v-la.mybtv.net/live/105.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Canal de La Fé
+https://v-la.mybtv.net/live/280.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", TVA
+https://v-la.mybtv.net/live/300.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Espíritu Santo TV
+https://v-fn.mybtv.net/live/893.m3u8
+#EXTINF:-1 tvg-id="ALmavision(Spanish).us" group-title="RELIGIÓN", AlmaVisión LV
+https://v-lv.mybtv.net/live/1047.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Renuevo LV
+https://v-lv.mybtv.net/live/1056.m3u8
+#EXTINF:-1 tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://v-lv.mybtv.net/live/1057.m3u8
+#EXTINF:-1 tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://v-la.mybtv.net/live/1102.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Hora de Fé
+https://v-fn.mybtv.net/live/1188.m3u8
+#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="XEIPN.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="" group-title="LOCALES",TV Migrante
+https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="LOCALES",TV UNAM
+https://60417ddeaf0d9.streamlock.net/tvunam/videotvunam/chunklist_w469827752_DVR.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.1
+https://edge.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.2
+https://edge.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="LOCALES",Canal Del Congreso 45.3
+https://edge.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="REGIONALES",Quiero TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
+#EXTINF:-1 tvg-id="HeraldoTV.mx" tvg-name="Heraldo Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hc8.png" group-title="LOCALES",Heraldo Televisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x88epch
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 LAG
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GDL
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 PUE
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 GTO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 SAL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 SAL
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="REGIONALES",Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MUSICA",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENIMIENTO",MVS TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7urqme
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="REGIONALES PÚBLICOS",Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="REGIONALES PÚBLICOS",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="REGIONALES PÚBLICOS",Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal44(XHUDGTDT).mx" tvg-name="UDGTV 44" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="REGIONALES PÚBLICOS",UDGTV 44
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3m1xfy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDGTV 44 Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/44N.jpg" group-title="REGIONALES PÚBLICOS",UDGTV 44 Noticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6km0ku
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="REGIONALES PÚBLICOS",Canal 28 NL
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET TV 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="REGIONALES PÚBLICOS",SET TV 16.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4.2 Gto.
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="REGIONALES PÚBLICOS",TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMRyT 15.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="REGIONALES PÚBLICOS",IMRyT 15.1
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="REGIONALES PÚBLICOS",Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SM 16.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="REGIONALES PÚBLICOS",SM 16.1
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="REGIONALES PÚBLICOS",TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="REGIONALES PÚBLICOS",Sizart TV
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="REGIONALES PÚBLICOS",RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="REGIONALES",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="INFORMACIÓN",Justicia TV
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INFORMACIÓN",RT (Español)
+https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INFORMACIÓN",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="RTInSpanish.mx" tvg-logo="" group-title="INFORMACIÓN", RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="" group-title="ENTRETENIMIENTO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA UNO (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA 7 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", A MÁS (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", ADN40 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="REGIONALES PÚBLICOS", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="" group-title="MUSICA", VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-id="6" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1  group-title="24/7",  40 Y 20
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" group-title="DEPORTES",  Adrenalina Sports Network
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Alebrije TV
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=319&pid=319&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Amores Verdaderos
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=305&pid=305&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Aqui Y Ahora
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=306&pid=306&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="CINE",  Cine 1
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="CINE",  Cine 2
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="CINE",  Cine 3
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="CINE",  Cine Club - Prendetv
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="CINE",  Cine Del Ayer
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="CINE", Cine Sd
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="CINE", Cine Sd
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Clase 406
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=322&pid=322&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN",  Cnn Español (USA)
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Comedy Tv
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Como Dice El Dicho
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Corazón Salvaje
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=325&pid=325&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Crónicas
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=315&pid=315&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Cuidado Con El Angel
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=316&pid=316&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Del Mercado Al Plato
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=317&pid=317&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES", Deportes
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Durmiendo Con Mi Jefe
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  El Privilegio De Mandar
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Failarmy
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Familia P. Luche
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Fun Videos
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Héroes Del Norte
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Juana La Virgen
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=327&pid=327&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Kids
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  La Promesa
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=343&pid=343&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  La Selecc10n
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=345&pid=345&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Lo Mejor De La Liga Mx - Prendetv
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Lo Que Diga El Corazon
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=346&pid=346&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="XHGTVCanal4Guadalajara.mx" group-title="REGIONALES",  Canal 4 Tu Canal
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="XEFBTDT.mx" group-title="REGIONALES",  Canal 4 Monterrey
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Love Nature
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  María Mercedes
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=328&pid=328&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="INFORMACIÓN",  N+ Media
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Mi Gorda Bella
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=334&pid=334&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Muchachitas
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=331&pid=331&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Muchachitas Como Tu
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=332&pid=332&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=445&pid=445&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Novelas De Oro - Prendetv
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=196&pid=196&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Novelas De Romance - Prendetv
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=194&pid=194&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Novelas En Familia - Prendetv
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=195&pid=195&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas Hd
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Novelas Sd
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Papa A Toda Madre
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  People Are Awesome
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=39&pid=39&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Que Bonito Amor
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=329&pid=329&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Rebelde
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=335&pid=335&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="CINE",  Retro Peli
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Sortilegio
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=337&pid=337&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="TelehitMusica.mx" group-title="MUSICA",  Telehit Musica
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" group-title="MUSICA",  Telehit Musica Plus
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="Telehit.mx" group-title="MUSICA",  Telehit
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Teresa
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=342&pid=342&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Teresa
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=324&pid=324&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  The Weather Channel(Es)
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  The Weather Channel(Es) Hd
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=453&pid=453&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Tres Veces Ana
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=321&pid=321&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Triunfo Del Amor
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=338&pid=338&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="Nu9ve.mx" group-title="LOCALES",  Nu9ve
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="24/7", Unknown 101
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=330&pid=330&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Unknown 262
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=446&pid=446&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Vecinos
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="MUSICA",  Vevo
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="MUSICA",  Vevo
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Videos Chistosos
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="24/7",  Videos Chistosos 2
+http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
+
+
+#EXTINF:-1 group-title="Lista 22",  GO DIRECTV
+http://bgapp.live/play/futvall-199.php?id=Z29kaXJlY3R2&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LATINA
+http://bgapp.live/play/futvall-199.php?id=bGF0aW5h&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CARACOL TV
+http://bgapp.live/play/futvall-199.php?id=Y2FyYWNvbHR2&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  RCN TV
+http://bgapp.live/play/futvall-199.php?id=cmNudHY=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DIRECTV 2
+http://bgapp.live/play/futvall-199.php?id=Z29kaXJlY3R2Mg==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL SIETE MX
+http://bgapp.live/play/futvall-199.php?id=ZWwtc2lldGVteA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL SIETE MX HD
+http://bgapp.live/play/futvall-199.php?id=ZWxzaWV0ZWhk&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINCO MX
+http://bgapp.live/play/futvall-199.php?id=Y2luY29teA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TUDN MX
+http://bgapp.live/play/futvall-199.php?id=dGRuLW14&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CANAL 2 MX
+http://bgapp.live/play/futvall-199.php?id=ZWxkb3M=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZTECA UNO MX
+http://bgapp.live/play/futvall-199.php?id=YXp0ZWNhdW5v&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  IMAGEN TV
+http://bgapp.live/play/futvall-199.php?id=aW1hZ2VudHY=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NUEVE
+http://bgapp.live/play/futvall-199.php?id=ZWxudWV2ZQ==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT Sports
+http://bgapp.live/play/futvall-199.php?id=dG50&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINEMAX
+http://bgapp.live/play/futvall-199.php?id=Y2luZW1heA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SPACE
+http://bgapp.live/play/futvall-199.php?id=c3BhY2U=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ADRENALINA
+http://bgapp.live/play/futvall-199.php?id=YWRyZW5hbGluYQ==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AFIZZIONADOS
+http://bgapp.live/play/futvall-199.php?id=YWZpenppb25hZG9z&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AyM Sports
+http://bgapp.live/play/futvall-199.php?id=YXltc3BvcnRz&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  BEIN SPORTS Ñ
+http://bgapp.live/play/futvall-199.php?id=YmVpbmVzaGQ=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CLARO SPORTS
+http://bgapp.live/play/futvall-199.php?id=Y2xhcm9zcG9ydHM=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN Deportes
+http://bgapp.live/play/futvall-199.php?id=ZXNwbmRlcA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN 1 MX
+http://bgapp.live/play/futvall-199.php?id=ZXNwbjEtbXg=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN 2 MX
+http://bgapp.live/play/futvall-199.php?id=ZXNwbjItbXg=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN 3 MX
+http://bgapp.live/play/futvall-199.php?id=ZXNwbjMtbXg=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ESPN EXTRA
+http://bgapp.live/play/futvall-199.php?id=ZXNwbmV4dHJhLW14&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 1 MX
+http://bgapp.live/play/futvall-199.php?id=Zm94c3BvcnRzMS1teA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 2 MX
+http://bgapp.live/play/futvall-199.php?id=Zm94c3BvcnRzMi1teA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 3 MX
+http://bgapp.live/play/futvall-199.php?id=Zm94c3BvcnRzMy1teA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GALAVISION
+http://bgapp.live/play/futvall-199.php?id=Z2FsYXZpc2lvbg==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GOLTV
+http://bgapp.live/play/futvall-199.php?id=Z29sdHY=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GOLF
+http://bgapp.live/play/futvall-199.php?id=Z29sZg==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MLB
+http://bgapp.live/play/futvall-199.php?id=bWxi&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NFL NETWORK
+http://bgapp.live/play/futvall-199.php?id=bmZs&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  M DEPORTES
+http://bgapp.live/play/futvall-199.php?id=bWRlcG9ydGVz&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  M LALIGA
+http://bgapp.live/play/futvall-199.php?id=bXNsYWxpZ2E=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY LALIGA
+http://bgapp.live/play/futvall-199.php?id=c2t5bGFsaWdh&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY PREMIER LEAGUE
+http://bgapp.live/play/futvall-199.php?id=c2t5c3BvcnRzcGw=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY F1
+http://bgapp.live/play/futvall-199.php?id=c2t5ZjE=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TENIS CH
+http://bgapp.live/play/futvall-199.php?id=dGVuaXM=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TVC Deportes
+http://bgapp.live/play/futvall-199.php?id=dHZjZGVwLW14&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TYC SPORTS ARG
+http://bgapp.live/play/futvall-199.php?id=dHljc3BvcnRz&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TDN US
+http://bgapp.live/play/futvall-199.php?id=dHVkbnVz&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIVERSO
+http://bgapp.live/play/futvall-199.php?id=dW5pdmVyc28=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NBC SPORTS NET
+http://bgapp.live/play/futvall-199.php?id=bmJjc24=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIMAS
+http://bgapp.live/play/futvall-199.php?id=dW5pbWFz&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIV US
+http://bgapp.live/play/futvall-199.php?id=dW5pdnVz&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIV DEPORTES
+http://bgapp.live/play/futvall-199.php?id=dW5pdmRlcA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CBS NETWORK
+http://bgapp.live/play/futvall-199.php?id=Y2JzbmV0&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FIGHT TIME
+http://bgapp.live/play/futvall-199.php?id=ZmlnaHQ=&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UFC
+http://bgapp.live/play/futvall-199.php?id=dWZj&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  VTV
+http://bgapp.live/play/futvall-199.php?id=dnR2&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  VTV PLUS
+http://bgapp.live/play/futvall-199.php?id=dnR2cGx1cw==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WIN SPORTS
+http://bgapp.live/play/futvall-199.php?id=d2luY29s&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WIN SPORTS PLUS
+http://bgapp.live/play/futvall-199.php?id=d2lucGx1c2NvbA==&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WWE
+http://bgapp.live/play/futvall-199.php?id=d3dl&token=bbblackg&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZTECA UNO MX
+http://bgapp.live/play/futvall-199.php?id=ZWwtdW5v&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL DOS MX
+http://bgapp.live/play/futvall-199.php?id=ZWxkb3M=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CANAL 5 MX
+http://bgapp.live/play/futvall-199.php?id=ZWxjaW5jbw==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZTECA 7
+http://bgapp.live/play/futvall-199.php?id=ZWxzaWV0ZQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL NUEVE MX
+http://bgapp.live/play/futvall-199.php?id=ZWxudWV2ZQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  IMAGEN TV
+http://bgapp.live/play/futvall-199.php?id=aW1hZ2VudHY=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MULTIMEDIOS
+http://bgapp.live/play/futvall-199.php?id=bXVsdGltZWRpb3M=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ONCE TV
+http://bgapp.live/play/futvall-199.php?id=b25jZXR2&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ONCE TV HD
+http://bgapp.live/play/futvall-199.php?id=b25jZXR2aGQ=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISTRITO COMEDIA
+http://bgapp.live/play/futvall-199.php?id=ZGlzdHJpdG9jb21lZHk=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNICABLE MX
+http://bgapp.live/play/futvall-199.php?id=dW5pLWNhYmxl&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ANTENA 3 Int
+http://bgapp.live/play/futvall-199.php?id=YW50ZW5hM2ludA==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  A3 SERIES
+http://bgapp.live/play/futvall-199.php?id=YTNzZXJpZXMtZXM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TVE
+http://bgapp.live/play/futvall-199.php?id=dHZl&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GALAVISION
+http://bgapp.live/play/futvall-199.php?id=Z2FsYQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  GLITZ
+http://bgapp.live/play/futvall-199.php?id=Z2xpdHo=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TELEMUNDO
+http://bgapp.live/play/futvall-199.php?id=dGVsZW11bmRvLW14&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TELEMUNDO Internacional
+http://bgapp.live/play/futvall-199.php?id=dGVsZW11bmRvaW50&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIMAS
+http://bgapp.live/play/futvall-199.php?id=dW5pbWFzdXM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZ CORAZON
+http://bgapp.live/play/futvall-199.php?id=YXpjb3Jhem9u&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  A&amp;E
+http://bgapp.live/play/futvall-199.php?id=YWU=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AXN
+http://bgapp.live/play/futvall-199.php?id=YXhubXg=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  COMEDY CENTRAL
+http://bgapp.live/play/futvall-199.php?id=Y29tZWR5&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Entertaiment
+http://bgapp.live/play/futvall-199.php?id=ZQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX Channel
+http://bgapp.live/play/futvall-199.php?id=c3RhcmNo&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FX
+http://bgapp.live/play/futvall-199.php?id=Zng=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  INVESTIGATION Discovery
+http://bgapp.live/play/futvall-199.php?id=aWQ=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PASIONES
+http://bgapp.live/play/futvall-199.php?id=cGFzaW9uZXM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  RCN Novelas
+http://bgapp.live/play/futvall-199.php?id=cmNudGxu&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SONY Channel
+http://bgapp.live/play/futvall-199.php?id=c29ueQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TLNovelas
+http://bgapp.live/play/futvall-199.php?id=dGVsZW5vdmVsYXM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TBS
+http://bgapp.live/play/futvall-199.php?id=dGJzaGQ=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT Series
+http://bgapp.live/play/futvall-199.php?id=dG50c2VyaWVzaGQ=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TRU TV
+http://bgapp.live/play/futvall-199.php?id=dHJ1dHY=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  UNIVERSAL TV
+http://bgapp.live/play/futvall-199.php?id=dW5pdmVyc2Fs&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  WARNER TV
+http://bgapp.live/play/futvall-199.php?id=d2FybmVy&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZ CINEMA
+http://bgapp.live/play/futvall-199.php?id=YXpjaW5lbWE=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AMC
+http://bgapp.live/play/futvall-199.php?id=YW1j&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINECANAL
+http://bgapp.live/play/futvall-199.php?id=Y2luZWNhbmFs&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINEMAX
+http://bgapp.live/play/futvall-199.php?id=Y2luZW1heA==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DE PELICULA
+http://bgapp.live/play/futvall-199.php?id=ZGVwZWxpY3VsYQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DE PELICULA PLUS
+http://bgapp.live/play/futvall-199.php?id=ZGVwZWxpY3VsYXBsdXM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DHE
+http://bgapp.live/play/futvall-199.php?id=ZGhlaGQ=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EUROPA
+http://bgapp.live/play/futvall-199.php?id=ZXVyb3Bh&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FILM &amp; ARTS
+http://bgapp.live/play/futvall-199.php?id=ZmlsbWFydHM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ISAT
+http://bgapp.live/play/futvall-199.php?id=aXNhdGNo&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MULTICINEMA
+http://bgapp.live/play/futvall-199.php?id=bWM=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MULTIPREMIER
+http://bgapp.live/play/futvall-199.php?id=bXByZW1pZXI=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MORBIDO
+http://bgapp.live/play/futvall-199.php?id=bW9yYnVpZG8=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PARAMOUNT Channel
+http://bgapp.live/play/futvall-199.php?id=cGFyYW1vdW50Y2g=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SPACE
+http://bgapp.live/play/futvall-199.php?id=c3BhY2U=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  STUDIO Universal
+http://bgapp.live/play/futvall-199.php?id=c3RkaW91bml2&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SYFY
+http://bgapp.live/play/futvall-199.php?id=c3lmeQ==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TCM
+http://bgapp.live/play/futvall-199.php?id=dGNt&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT
+http://bgapp.live/play/futvall-199.php?id=dG50aGQ=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AZ MUNDO
+http://bgapp.live/play/futvall-199.php?id=YXptdW5kbw==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ANIMAL Planet
+http://bgapp.live/play/futvall-199.php?id=YW5pbWFscA==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISCOVERY Channel
+http://bgapp.live/play/futvall-199.php?id=ZGlzY292ZXJ5Y2g=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery SCIENCE
+http://bgapp.live/play/futvall-199.php?id=ZGNpZW5jaWE=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery CIVILIZATION
+http://bgapp.live/play/futvall-199.php?id=ZGNpdmls&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery THEATER
+http://bgapp.live/play/futvall-199.php?id=ZHRoZWF0ZXI=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery TURBO
+http://bgapp.live/play/futvall-199.php?id=ZHR1cmJv&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery WORLD
+http://bgapp.live/play/futvall-199.php?id=ZHdvcmxk&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOOD Network
+http://bgapp.live/play/futvall-199.php?id=Zm9vZA==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL GOURMET
+http://bgapp.live/play/futvall-199.php?id=Z291cm1ldA==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LIFE TIME
+http://bgapp.live/play/futvall-199.php?id=bGlmZXRpZW1wbw==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  HISTORY Channel
+http://bgapp.live/play/futvall-199.php?id=aGlzdG9yeWhk&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Histrory 2
+http://bgapp.live/play/futvall-199.php?id=aDI=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Home &amp; Health
+http://bgapp.live/play/futvall-199.php?id=aGg=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  HOLA TV
+http://bgapp.live/play/futvall-199.php?id=aG9sYXR2&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MAS CHIC
+http://bgapp.live/play/futvall-199.php?id=bWFzY2hpY2Fz&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NATGEO
+http://bgapp.live/play/futvall-199.php?id=bmF0Z2Vv&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TLC Discovery
+http://bgapp.live/play/futvall-199.php?id=dGxj&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LIBRE TV
+http://bgapp.live/play/futvall-199.php?id=bGlicmU=&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  BASICO TV
+http://bgapp.live/play/futvall-199.php?id=YmFzaWNv&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  KIDS TV
+http://bgapp.live/play/futvall-199.php?id=a2lkcw==&token=bbblackg&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PREMIUM TV
+http://bgapp.live/play/futvall-199.php?id=cHJlbWl1bQ==&token=bbblackg&dos=kingof&f=.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 9-ATV
+http://168.194.171.33:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 2-AmericaTV
+http://168.194.171.33:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Animal Planet
+http://168.194.171.33:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN", CNN Espanol
+http://168.194.171.33:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Las Estrellas LA
+http://168.194.171.33:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="KIDS", Cartoon Network
+http://168.194.171.33:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="CINE", Cinecanal
+http://168.194.171.33:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel
+http://168.194.171.33:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Discovery ID
+http://168.194.171.33:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="KIDS", Discovery Kids
+http://168.194.171.33:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="KIDS", Disney Channel
+http://168.194.171.33:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="KIDS", Disney Jr
+http://168.194.171.33:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", E Entertainment
+http://168.194.171.33:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://168.194.171.33:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://168.194.171.33:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 Latin
+http://168.194.171.33:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+http://168.194.171.33:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
+http://168.194.171.33:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 1
+http://168.194.171.33:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2
+http://168.194.171.33:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3
+http://168.194.171.33:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", GOL TV
+http://168.194.171.33:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO 2
+http://168.194.171.33:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO Family
+http://168.194.171.33:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO Plus
+http://168.194.171.33:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO XTREME SD
+http://168.194.171.33:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", History Channel
+http://168.194.171.33:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", HomeandHealth
+http://168.194.171.33:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="CINE", I-Sat
+http://168.194.171.33:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Latina
+http://168.194.171.33:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Lifetime
+http://168.194.171.33:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", MTV
+http://168.194.171.33:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO", Nat Geo
+http://168.194.171.33:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="KIDS", Nickelodeon
+http://168.194.171.33:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 5-Panamericana TV
+http://168.194.171.33:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", RCN Novelas
+http://168.194.171.33:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", STAR CHANNEL
+http://168.194.171.33:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="CINE", Studio Universal
+http://168.194.171.33:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", SyFy
+http://168.194.171.33:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TBS
+http://168.194.171.33:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="CINE", TCM
+http://168.194.171.33:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TLC
+http://168.194.171.33:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="CINE", TNT
+http://168.194.171.33:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS 3
+http://168.194.171.33:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 7-TVpe
+http://168.194.171.33:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Telemundo
+http://168.194.171.33:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Universal
+http://168.194.171.33:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", WILLAX
+http://168.194.171.33:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Warner
+http://168.194.171.33:8000/play/a016/index.m3u8
+
+
+#EXTINF:-1 group-title="CENTROA", 11 - Repretel
+http://190.61.102.67:8000/play/a01u
+#EXTINF:-1 group-title="CENTROA", 13-Sinart
+http://190.61.102.67:8000/play/a00v
+#EXTINF:-1 group-title="CENTROA", 42 - Extra TV 42
+http://190.61.102.67:8000/play/a00w
+#EXTINF:-1 group-title="CENTROA", 6 - Repretel
+http://190.61.102.67:8000/play/a01s
+#EXTINF:-1 group-title="CENTROA", 7-Teletica
+http://190.61.102.67:8000/play/a01t
+#EXTINF:-1 group-title="CENTROA", A&E HD
+http://190.61.102.67:8000/play/a04r
+#EXTINF:-1 group-title="CENTROA", AMC
+http://190.61.102.67:8000/play/a04b
+#EXTINF:-1 group-title="CENTROA", AMC HD
+http://190.61.102.67:8000/play/a04s
+#EXTINF:-1 group-title="CENTROA", AXN
+http://190.61.102.67:8000/play/a049
+#EXTINF:-1 group-title="CENTROA", AXN HD
+http://190.61.102.67:8000/play/a07a
+#EXTINF:-1 group-title="CENTROA", AZ click HD
+http://190.61.102.67:8000/play/a04y
+#EXTINF:-1 group-title="CENTROA", Animal Planet HD
+http://190.61.102.67:8000/play/a04o
+#EXTINF:-1 group-title="CENTROA", Antena 3
+http://190.61.102.67:8000/play/a00b
+#EXTINF:-1 group-title="CENTROA", Antena 7- RD
+http://190.61.102.67:8000/play/a03n
+#EXTINF:-1 group-title="CENTROA", Atres Series
+http://190.61.102.67:8000/play/a00h
+#EXTINF:-1 group-title="CENTROA", Azcorazon
+http://190.61.102.67:8000/play/a040
+#EXTINF:-1 group-title="CENTROA", BBC World
+http://190.61.102.67:8000/play/a04d
+#EXTINF:-1 group-title="CENTROA", Baby First
+http://190.61.102.67:8000/play/a01x
+#EXTINF:-1 group-title="CENTROA", Baby TV
+http://190.61.102.67:8000/play/a008
+#EXTINF:-1 group-title="CENTROA", CANAL 13 - NI
+http://190.61.102.67:8000/play/a01n
+#EXTINF:-1 group-title="CENTROA", CANAL 3
+http://190.61.102.67:8000/play/can3
+#EXTINF:-1 group-title="CENTROA", CARTOON NT HD
+http://190.61.102.67:8000/play/a014
+#EXTINF:-1 group-title="CENTROA", CDN2- RD
+http://190.61.102.67:8000/play/a01k
+#EXTINF:-1 group-title="CENTROA", CERTV
+http://190.61.102.67:8000/play/a06d
+#EXTINF:-1 group-title="CENTROA", CNN Internacional
+http://190.61.102.67:8000/play/a00n
+#EXTINF:-1 group-title="CENTROA", CNNE
+http://190.61.102.67:8000/play/a04c
+#EXTINF:-1 group-title="CENTROA", CTV
+http://190.61.102.67:8000/play/a07g
+#EXTINF:-1 group-title="CENTROA", Canal 10 - ESA
+http://190.61.102.67:8000/play/a00g
+#EXTINF:-1 group-title="CENTROA", Canal 10 HD - ESA
+http://190.61.102.67:8000/play/a00o
+#EXTINF:-1 group-title="CENTROA", Canal 11 - GUA
+http://190.61.102.67:8000/play/a01d
+#EXTINF:-1 group-title="CENTROA", Canal 13 - PAN
+http://190.61.102.67:8000/play/a03q
+#EXTINF:-1 group-title="CENTROA", Canal 13-GUA
+http://190.61.102.67:8000/play/a01c
+#EXTINF:-1 group-title="CENTROA", Canal 14 - NIC
+http://190.61.102.67:8000/play/a01i
+#EXTINF:-1 group-title="CENTROA", Canal 19 ESA
+http://190.61.102.67:8000/play/a01w
+#EXTINF:-1 group-title="CENTROA", Canal 2 - PAN
+http://190.61.102.67:8000/play/a03r
+#EXTINF:-1 group-title="CENTROA", Canal 4 - NIC
+http://190.61.102.67:8000/play/a06f
+#EXTINF:-1 group-title="CENTROA", Canal 4 - PAN
+http://190.61.102.67:8000/play/a06h
+#EXTINF:-1 group-title="CENTROA", Canal 6 - ESA
+http://190.61.102.67:8000/play/a01e
+#EXTINF:-1 group-title="CENTROA", Canal 6 - NI
+http://190.61.102.67:8000/play/a01m
+#EXTINF:-1 group-title="CENTROA", Canal Claro
+http://190.61.102.67:8000/play/a03k
+#EXTINF:-1 group-title="CENTROA", Canal Claro HD
+http://190.61.102.67:8000/play/a013
+#EXTINF:-1 group-title="CENTROA", Canal del Congreso
+http://190.61.102.67:8000/play/a005
+#EXTINF:-1 group-title="CENTROA", Cartoon Network
+http://190.61.102.67:8000/play/a03s
+#EXTINF:-1 group-title="CENTROA", Cartoonito
+http://190.61.102.67:8000/play/a03u
+#EXTINF:-1 group-title="CENTROA", Cine Latino
+http://190.61.102.67:8000/play/a06x
+#EXTINF:-1 group-title="CENTROA", CineCanal
+http://190.61.102.67:8000/play/a070
+#EXTINF:-1 group-title="CENTROA", CineMax
+http://190.61.102.67:8000/play/a06y
+#EXTINF:-1 group-title="CENTROA", Claro Musica
+http://190.61.102.67:8000/play/a028
+#EXTINF:-1 group-title="CENTROA", Claro Sports 1 SD
+http://190.61.102.67:8000/play/a07d
+#EXTINF:-1 group-title="CENTROA", Claro Sports 2 HD
+http://190.61.102.67:8000/play/a012
+#EXTINF:-1 group-title="CENTROA", Claro Sports 2 SD
+http://190.61.102.67:8000/play/a024
+#EXTINF:-1 group-title="CENTROA", Comedy Central HD
+http://190.61.102.67:8000/play/a064
+#EXTINF:-1 group-title="CENTROA", Concert Channel
+http://190.61.102.67:8000/play/a06t
+#EXTINF:-1 group-title="CENTROA", DHE
+http://190.61.102.67:8000/play/a00y
+#EXTINF:-1 group-title="CENTROA", DHE HD
+http://190.61.102.67:8000/play/a04x
+#EXTINF:-1 group-title="CENTROA", DISC THEATHER HD
+http://190.61.102.67:8000/play/a061
+#EXTINF:-1 group-title="CENTROA", Digital 15 - RD
+http://190.61.102.67:8000/play/a01j
+#EXTINF:-1 group-title="CENTROA", Discovery Channel HD
+http://190.61.102.67:8000/play/a05a
+#EXTINF:-1 group-title="CENTROA", Discovery Home & Health
+http://190.61.102.67:8000/play/a06o
+#EXTINF:-1 group-title="CENTROA", Discovery ID HD
+http://190.61.102.67:8000/play/a05e
+#EXTINF:-1 group-title="CENTROA", Discovery Kids
+http://190.61.102.67:8000/play/a06j
+#EXTINF:-1 group-title="CENTROA", Discovery Kids HD
+http://190.61.102.67:8000/play/a00r
+#EXTINF:-1 group-title="CENTROA", Discovery Science
+http://190.61.102.67:8000/play/a00e
+#EXTINF:-1 group-title="CENTROA", Discovery Turbo
+http://190.61.102.67:8000/play/a06n
+#EXTINF:-1 group-title="CENTROA", Discovery World HD
+http://190.61.102.67:8000/play/a05b
+#EXTINF:-1 group-title="CENTROA", Disney
+http://190.61.102.67:8000/play/a06l
+#EXTINF:-1 group-title="CENTROA", Disney JR
+http://190.61.102.67:8000/play/a03v
+#EXTINF:-1 group-title="CENTROA", E! Entertairment HD
+http://190.61.102.67:8000/play/a04p
+#EXTINF:-1 group-title="CENTROA", ESPN +
+http://190.61.102.67:8000/play/a04i
+#EXTINF:-1 group-title="CENTROA", ESPN 2 HD
+http://190.61.102.67:8000/play/a055
+#EXTINF:-1 group-title="CENTROA", ESPN 3
+http://190.61.102.67:8000/play/a025
+#EXTINF:-1 group-title="CENTROA", ESPN 3 HD
+http://190.61.102.67:8000/play/a054
+#EXTINF:-1 group-title="CENTROA", ESPN 4
+http://190.61.102.67:8000/play/a06r
+#EXTINF:-1 group-title="CENTROA", ESPN 4 HD
+http://190.61.102.67:8000/play/a079
+#EXTINF:-1 group-title="CENTROA", ESPN HD
+http://190.61.102.67:8000/play/a053
+#EXTINF:-1 group-title="CENTROA", EURO Channel
+http://190.61.102.67:8000/play/a020
+#EXTINF:-1 group-title="CENTROA", EWTN
+http://190.61.102.67:8000/play/a04g
+#EXTINF:-1 group-title="CENTROA", El Gourmet
+http://190.61.102.67:8000/play/a022
+#EXTINF:-1 group-title="CENTROA", Europa HD
+http://190.61.102.67:8000/play/a04v
+#EXTINF:-1 group-title="CENTROA", FOX SPORTS 2 HD
+http://190.61.102.67:8000/play/a05z
+#EXTINF:-1 group-title="CENTROA", FOX SPORTS 3 HD
+http://190.61.102.67:8000/play/a056
+#EXTINF:-1 group-title="CENTROA", FOX Sports 2
+http://190.61.102.67:8000/play/a026
+#EXTINF:-1 group-title="CENTROA", FUTV CR
+http://190.61.102.67:8000/play/a06e
+#EXTINF:-1 group-title="CENTROA", FUTV HD CR
+http://190.61.102.67:8000/play/a052
+#EXTINF:-1 group-title="CENTROA", FX
+http://190.61.102.67:8000/play/a01y
+#EXTINF:-1 group-title="CENTROA", FX HD
+http://190.61.102.67:8000/play/a04u
+#EXTINF:-1 group-title="CENTROA", Film & Arts
+http://190.61.102.67:8000/play/a00x
+#EXTINF:-1 group-title="CENTROA", Film & arts HD
+http://190.61.102.67:8000/play/a04q
+#EXTINF:-1 group-title="CENTROA", Fox Sport 3
+http://190.61.102.67:8000/play/a046
+#EXTINF:-1 group-title="CENTROA", France24
+http://190.61.102.67:8000/play/a04e
+#EXTINF:-1 group-title="CENTROA", Golden
+http://190.61.102.67:8000/play/a02b
+#EXTINF:-1 group-title="CENTROA", Golf Channel
+http://190.61.102.67:8000/play/a00j
+#EXTINF:-1 group-title="CENTROA", Golf Channel HD
+http://190.61.102.67:8000/play/a050
+#EXTINF:-1 group-title="CENTROA", Guatevision - GUA
+http://190.61.102.67:8000/play/a03l
+#EXTINF:-1 group-title="CENTROA", H2
+http://190.61.102.67:8000/play/a021
+#EXTINF:-1 group-title="CENTROA", HBO
+http://190.61.102.67:8000/play/a071
+#EXTINF:-1 group-title="CENTROA", HBO Family
+http://190.61.102.67:8000/play/a074
+#EXTINF:-1 group-title="CENTROA", HBO Family HD
+http://190.61.102.67:8000/play/a018
+#EXTINF:-1 group-title="CENTROA", HBO HD
+http://190.61.102.67:8000/play/a015
+#EXTINF:-1 group-title="CENTROA", HBO Plus
+http://190.61.102.67:8000/play/a073
+#EXTINF:-1 group-title="CENTROA", HBO Plus HD
+http://190.61.102.67:8000/play/a017
+#EXTINF:-1 group-title="CENTROA", HBO XTREME
+http://190.61.102.67:8000/play/a075
+#EXTINF:-1 group-title="CENTROA", HBO XTREME
+http://190.61.102.67:8000/play/a019
+#EXTINF:-1 group-title="CENTROA", HBO2
+http://190.61.102.67:8000/play/a072
+#EXTINF:-1 group-title="CENTROA", HBO2 HD
+http://190.61.102.67:8000/play/a016
+#EXTINF:-1 group-title="CENTROA", HOLA! TV HD
+http://190.61.102.67:8000/play/a063
+#EXTINF:-1 group-title="CENTROA", HTV
+http://190.61.102.67:8000/play/a02a
+#EXTINF:-1 group-title="CENTROA", History HD
+http://190.61.102.67:8000/play/a04h
+#EXTINF:-1 group-title="CENTROA", Hola!TV
+http://190.61.102.67:8000/play/a00f
+#EXTINF:-1 group-title="CENTROA", Home & Health HD
+http://190.61.102.67:8000/play/a062
+#EXTINF:-1 group-title="CENTROA", Home Garden Latino
+http://190.61.102.67:8000/play/a00d
+#EXTINF:-1 group-title="CENTROA", ID
+http://190.61.102.67:8000/play/a06p
+#EXTINF:-1 group-title="CENTROA", ISAT
+http://190.61.102.67:8000/play/a06v
+#EXTINF:-1 group-title="CENTROA", LAS ESTRELLAS
+http://190.61.102.67:8000/play/las3
+#EXTINF:-1 group-title="CENTROA", LIFE TIME
+http://190.61.102.67:8000/play/a045
+#EXTINF:-1 group-title="CENTROA", La liga
+http://190.61.102.67:8000/play/a07h
+#EXTINF:-1 group-title="CENTROA", La voz de Maria
+http://190.61.102.67:8000/play/a06q
+#EXTINF:-1 group-title="CENTROA", Latin America Sport
+http://190.61.102.67:8000/play/a027
+#EXTINF:-1 group-title="CENTROA", MASTV - PAN
+http://190.61.102.67:8000/play/a01r
+#EXTINF:-1 group-title="CENTROA", MTV
+http://190.61.102.67:8000/play/a06s
+#EXTINF:-1 group-title="CENTROA", MTV 00s
+http://190.61.102.67:8000/play/a029
+#EXTINF:-1 group-title="CENTROA", MTV 00s HD
+http://190.61.102.67:8000/play/a066
+#EXTINF:-1 group-title="CENTROA", MTV 80s
+http://190.61.102.67:8000/play/a048
+#EXTINF:-1 group-title="CENTROA", MTV HD
+http://190.61.102.67:8000/play/a04j
+#EXTINF:-1 group-title="CENTROA", MTV Hits
+http://190.61.102.67:8000/play/a047
+#EXTINF:-1 group-title="CENTROA", MTV SIM HD
+http://190.61.102.67:8000/play/a065
+#EXTINF:-1 group-title="CENTROA", Mas Chic
+http://190.61.102.67:8000/play/a00a
+#EXTINF:-1 group-title="CENTROA", Multicinema
+http://190.61.102.67:8000/play/a00l
+#EXTINF:-1 group-title="CENTROA", Multimedios
+http://190.61.102.67:8000/play/a00u
+#EXTINF:-1 group-title="CENTROA", Multipremier
+http://190.61.102.67:8000/play/a06w
+#EXTINF:-1 group-title="CENTROA", NEXT - PAN
+http://190.61.102.67:8000/play/a01q
+#EXTINF:-1 group-title="CENTROA", Nat Geo HD
+http://190.61.102.67:8000/play/a057
+#EXTINF:-1 group-title="CENTROA", National Geographic
+http://190.61.102.67:8000/play/a044
+#EXTINF:-1 group-title="CENTROA", Nicarao TV
+http://190.61.102.67:8000/play/a03w
+#EXTINF:-1 group-title="CENTROA", Nick Jr
+http://190.61.102.67:8000/play/a03t
+#EXTINF:-1 group-title="CENTROA", Nick SIM HD
+http://190.61.102.67:8000/play/a05y
+#EXTINF:-1 group-title="CENTROA", Nickelodeon
+http://190.61.102.67:8000/play/a06k
+#EXTINF:-1 group-title="CENTROA", PXTV
+http://190.61.102.67:8000/play/a00k
+#EXTINF:-1 group-title="CENTROA", Paramount
+http://190.61.102.67:8000/play/a00z
+#EXTINF:-1 group-title="CENTROA", Paramount HD
+http://190.61.102.67:8000/play/a058
+#EXTINF:-1 group-title="CENTROA", Pasiones HD
+http://190.61.102.67:8000/play/a05c
+#EXTINF:-1 group-title="CENTROA", Playboy
+http://190.61.102.67:8000/play/a01a
+#EXTINF:-1 group-title="CENTROA", RCN - GUA
+http://190.61.102.67:8000/play/a006
+#EXTINF:-1 group-title="CENTROA", RCN Novelas
+http://190.61.102.67:8000/play/a01z
+#EXTINF:-1 group-title="CENTROA", RHEMA TV
+http://190.61.102.67:8000/play/a078
+#EXTINF:-1 group-title="CENTROA", SEMILLITAS
+http://190.61.102.67:8000/play/a03x
+#EXTINF:-1 group-title="CENTROA", SERTV - PAN
+http://190.61.102.67:8000/play/a003
+#EXTINF:-1 group-title="CENTROA", SPACE
+http://190.61.102.67:8000/play/a041
+#EXTINF:-1 group-title="CENTROA", SPACE HD
+http://190.61.102.67:8000/play/a07b
+#EXTINF:-1 group-title="CENTROA", STAR CHANNEL
+http://190.61.102.67:8000/play/a06m
+#EXTINF:-1 group-title="CENTROA", Sembrador
+http://190.61.102.67:8000/play/a02g
+#EXTINF:-1 group-title="CENTROA", Sony Movies HD
+http://190.61.102.67:8000/play/a04w
+#EXTINF:-1 group-title="CENTROA", Star TVE HD
+http://190.61.102.67:8000/play/a04z
+#EXTINF:-1 group-title="CENTROA", Studio Universal
+http://190.61.102.67:8000/play/a06z
+#EXTINF:-1 group-title="CENTROA", Studio Universal HD
+http://190.61.102.67:8000/play/a04m
+#EXTINF:-1 group-title="CENTROA", Sun Channel
+http://190.61.102.67:8000/play/a023
+#EXTINF:-1 group-title="CENTROA", SyFy HD
+http://190.61.102.67:8000/play/a04n
+#EXTINF:-1 group-title="CENTROA", TBN Enlace
+http://190.61.102.67:8000/play/a04f
+#EXTINF:-1 group-title="CENTROA", TBS
+http://190.61.102.67:8000/play/a043
+#EXTINF:-1 group-title="CENTROA", TCM
+http://190.61.102.67:8000/play/a02c
+#EXTINF:-1 group-title="CENTROA", TD+2 HD CR
+http://190.61.102.67:8000/play/a00q
+#EXTINF:-1 group-title="CENTROA", TD+HD CR
+http://190.61.102.67:8000/play/a00p
+#EXTINF:-1 group-title="CENTROA", TN 23
+http://190.61.102.67:8000/play/a07f
+#EXTINF:-1 group-title="CENTROA", TNT
+http://190.61.102.67:8000/play/a04a
+#EXTINF:-1 group-title="CENTROA", TNT HD
+http://190.61.102.67:8000/play/a060
+#EXTINF:-1 group-title="CENTROA", TNT Series
+http://190.61.102.67:8000/play/a042
+#EXTINF:-1 group-title="CENTROA", TNT Series HD
+http://190.61.102.67:8000/play/a059
+#EXTINF:-1 group-title="CENTROA", TUDN
+http://190.61.102.67:8000/play/a07e
+#EXTINF:-1 group-title="CENTROA", TV Max - PAN
+http://190.61.102.67:8000/play/a06g
+#EXTINF:-1 group-title="CENTROA", TV Oriente ESA
+http://190.61.102.67:8000/play/a004
+#EXTINF:-1 group-title="CENTROA", TVChile
+http://190.61.102.67:8000/play/a00c
+#EXTINF:-1 group-title="CENTROA", TVE
+http://190.61.102.67:8000/play/a00m
+#EXTINF:-1 group-title="CENTROA", TVM25 - ESA
+http://190.61.102.67:8000/play/a007
+#EXTINF:-1 group-title="CENTROA", Teen Nick HD
+http://190.61.102.67:8000/play/a04l
+#EXTINF:-1 group-title="CENTROA", Tele Antillas - RD
+http://190.61.102.67:8000/play/a03m
+#EXTINF:-1 group-title="CENTROA", Telecentro - RD
+http://190.61.102.67:8000/play/a01o
+#EXTINF:-1 group-title="CENTROA", Telemundo
+http://190.61.102.67:8000/play/a03z
+#EXTINF:-1 group-title="CENTROA", Telemundo HD
+http://190.61.102.67:8000/play/a04t
+#EXTINF:-1 group-title="CENTROA", Telesistema RD
+http://190.61.102.67:8000/play/a03o
+#EXTINF:-1 group-title="CENTROA", Teleunion - RD
+http://190.61.102.67:8000/play/a01p
+#EXTINF:-1 group-title="CENTROA", Teleuniverso - RD
+http://190.61.102.67:8000/play/a01l
+#EXTINF:-1 group-title="CENTROA", Televida RD
+http://190.61.102.67:8000/play/a00t
+#EXTINF:-1 group-title="CENTROA", Tigo Sports HD
+http://190.61.102.67:8000/play/a05x
+#EXTINF:-1 group-title="CENTROA", Tru TV
+http://190.61.102.67:8000/play/a03y
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL CINEMA ESTE
+http://190.61.102.67:8000/play/a010
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL CINEMA ESTE HD
+http://190.61.102.67:8000/play/a05f
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL COMEDY
+http://190.61.102.67:8000/play/a02f
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL COMEDY HD
+http://190.61.102.67:8000/play/a06b
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL CRIME
+http://190.61.102.67:8000/play/a02e
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL CRIME HD
+http://190.61.102.67:8000/play/a06a
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL PREMIERE
+http://190.61.102.67:8000/play/a076
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL PREMIERE HD
+http://190.61.102.67:8000/play/a067
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL PREMIERE O
+http://190.61.102.67:8000/play/a077
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL PREMIERE O HD
+http://190.61.102.67:8000/play/a068
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL REALITY
+http://190.61.102.67:8000/play/a02d
+#EXTINF:-1 group-title="CENTROA", UNIVERSAL REALITY HD
+http://190.61.102.67:8000/play/a069
+#EXTINF:-1 group-title="CENTROA", Universal
+http://190.61.102.67:8000/play/a06u
+#EXTINF:-1 group-title="CENTROA", Univision HD
+http://190.61.102.67:8000/play/a05d
+#EXTINF:-1 group-title="CENTROA", VENUS
+http://190.61.102.67:8000/play/a02h
+#EXTINF:-1 group-title="CENTROA", VTV Canal 35 ESA
+http://190.61.102.67:8000/play/a01v
+#EXTINF:-1 group-title="CENTROA", ZooMoo
+http://190.61.102.67:8000/play/a009
+
+
+#EXTINF:-1 group-title="Claro-COL", Telemundo
+http://190.60.39.62:8000/play/a02g
+#EXTINF:-1 group-title="Claro-COL", AE Mundo
+http://190.60.39.62:8000/play/a01z
+#EXTINF:-1 group-title="Claro-COL", AMC HD
+http://190.60.39.62:8000/play/a0b4
+#EXTINF:-1 group-title="Claro-COL", AXN
+http://190.60.39.62:8000/play/a048
+#EXTINF:-1 group-title="Claro-COL", Animal Planet
+http://190.60.39.62:8000/play/a01q
+#EXTINF:-1 group-title="Claro-COL", Animal Planet HD
+http://190.60.39.62:8000/play/a0b9
+#EXTINF:-1 group-title="Claro-COL", BabyFirst
+http://190.60.39.62:8000/play/a09b
+#EXTINF:-1 group-title="Claro-COL", CARTOONITO FHD
+http://190.60.39.62:8000/play/98
+#EXTINF:-1 group-title="Claro-COL", CNN Espanol
+http://190.60.39.62:8000/play/a014
+#EXTINF:-1 group-title="Claro-COL", Canal Caracol
+http://190.60.39.62:8000/play/a033
+#EXTINF:-1 group-title="Claro-COL", Canal Estrellas
+http://190.60.39.62:8000/play/a02d
+#EXTINF:-1 group-title="Claro-COL", Canal Institucional
+http://190.60.39.62:8000/play/a037
+#EXTINF:-1 group-title="Claro-COL", Canal RCN
+http://190.60.39.62:8000/play/a034
+#EXTINF:-1 group-title="Claro-COL", Canal Uno
+http://190.60.39.62:8000/play/a031
+#EXTINF:-1 group-title="Claro-COL", Canal del Congreso
+http://190.60.39.62:8000/play/a038
+#EXTINF:-1 group-title="Claro-COL", Capital
+http://190.60.39.62:8000/play/a08d
+#EXTINF:-1 group-title="Claro-COL", Cartoon Network
+http://190.60.39.62:8000/play/a00w
+#EXTINF:-1 group-title="Claro-COL", Cartoon Network HD
+http://190.60.39.62:8000/play/a0b6
+#EXTINF:-1 group-title="Claro-COL", Cinecanal
+http://190.60.39.62:8000/play/a00m
+#EXTINF:-1 group-title="Claro-COL", Cinecanal HD
+http://190.60.39.62:8000/play/a0b3
+#EXTINF:-1 group-title="Claro-COL", Cinemax
+http://190.60.39.62:8000/play/a046
+#EXTINF:-1 group-title="Claro-COL", City TV
+http://190.60.39.62:8000/play/a08c
+#EXTINF:-1 group-title="Claro-COL", Discovery Channel
+http://190.60.39.62:8000/play/a01p
+#EXTINF:-1 group-title="Claro-COL", Discovery ID
+http://190.60.39.62:8000/play/a02i
+#EXTINF:-1 group-title="Claro-COL", Discovery Kids
+http://190.60.39.62:8000/play/a013
+#EXTINF:-1 group-title="Claro-COL", Discovery Turbo
+http://190.60.39.62:8000/play/a04j
+#EXTINF:-1 group-title="Claro-COL", Discovery World HD
+http://190.60.39.62:8000/play/a0b2
+#EXTINF:-1 group-title="Claro-COL", Disney Channel
+http://190.60.39.62:8000/play/a01o
+#EXTINF:-1 group-title="Claro-COL", Disney Jr
+http://190.60.39.62:8000/play/a01k
+#EXTINF:-1 group-title="Claro-COL", E Entertainment
+http://190.60.39.62:8000/play/a01s
+#EXTINF:-1 group-title="Claro-COL", ESPN
+http://190.60.39.62:8000/play/a01v
+#EXTINF:-1 group-title="Claro-COL", ESPN 2
+http://190.60.39.62:8000/play/a01m
+#EXTINF:-1 group-title="Claro-COL", ESPN 2 Latin
+http://190.60.39.62:8000/play/a01u
+#EXTINF:-1 group-title="Claro-COL", ESPN 3
+http://190.60.39.62:8000/play/a04l
+#EXTINF:-1 group-title="Claro-COL", ESPN 4
+http://190.60.39.62:8000/play/a02s
+#EXTINF:-1 group-title="Claro-COL", ESPN CO
+http://190.60.39.62:8000/play/a03c
+#EXTINF:-1 group-title="Claro-COL", ESPN EXTRA HD
+http://190.60.39.62:8000/play/a0b5
+#EXTINF:-1 group-title="Claro-COL", Enlace
+http://190.60.39.62:8000/play/a011
+#EXTINF:-1 group-title="Claro-COL", FX
+http://190.60.39.62:8000/play/a04a
+#EXTINF:-1 group-title="Claro-COL", Fox Sports 2
+http://190.60.39.62:8000/play/a02e
+#EXTINF:-1 group-title="Claro-COL", Fox Sports 3
+http://190.60.39.62:8000/play/a02f
+#EXTINF:-1 group-title="Claro-COL", GLITZ HD
+http://190.60.39.62:8000/play/95
+#EXTINF:-1 group-title="Claro-COL", History Channel
+http://190.60.39.62:8000/play/a00l
+#EXTINF:-1 group-title="Claro-COL", HomeandHealth
+http://190.60.39.62:8000/play/a02n
+#EXTINF:-1 group-title="Claro-COL", I-Sat
+http://190.60.39.62:8000/play/a00o
+#EXTINF:-1 group-title="Claro-COL", Lifetime
+http://190.60.39.62:8000/play/a09c
+#EXTINF:-1 group-title="Claro-COL", MTV
+http://190.60.39.62:8000/play/a00p
+#EXTINF:-1 group-title="Claro-COL", Nat Geo
+http://190.60.39.62:8000/play/a00k
+#EXTINF:-1 group-title="Claro-COL", Nat Geo HD
+http://190.60.39.62:8000/play/a0b1
+#EXTINF:-1 group-title="Claro-COL", Nick Jr
+http://190.60.39.62:8000/play/a04i
+#EXTINF:-1 group-title="Claro-COL", Nickelodeon
+http://190.60.39.62:8000/play/a00i
+#EXTINF:-1 group-title="Claro-COL", Paramount HD
+http://190.60.39.62:8000/play/a0b7
+#EXTINF:-1 group-title="Claro-COL", RCN Novelas
+http://190.60.39.62:8000/play/a02h
+#EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
+http://190.60.39.62:8000/play/a00t
+#EXTINF:-1 group-title="Claro-COL", Senal Colombia
+http://190.60.39.62:8000/play/a039
+#EXTINF:-1 group-title="Claro-COL", Sin Limites
+http://190.60.39.62:8000/play/a02v
+#EXTINF:-1 group-title="Claro-COL", Sony
+http://190.60.39.62:8000/play/a047
+#EXTINF:-1 group-title="Claro-COL", Space
+http://190.60.39.62:8000/play/a049
+#EXTINF:-1 group-title="Claro-COL", SyFy
+http://190.60.39.62:8000/play/a09d
+#EXTINF:-1 group-title="Claro-COL", TBS
+http://190.60.39.62:8000/play/a02l
+#EXTINF:-1 group-title="Claro-COL", TCM
+http://190.60.39.62:8000/play/a00u
+#EXTINF:-1 group-title="Claro-COL", TLC
+http://190.60.39.62:8000/play/a02b
+#EXTINF:-1 group-title="Claro-COL", TNT
+http://190.60.39.62:8000/play/a00x
+#EXTINF:-1 group-title="Claro-COL", TNT SERIES FHD
+http://190.60.39.62:8000/play/99
+#EXTINF:-1 group-title="Claro-COL", TRO
+http://190.60.39.62:8000/play/a06r
+#EXTINF:-1 group-title="Claro-COL", TV AGRO HD
+http://190.60.39.62:8000/play/96
+#EXTINF:-1 group-title="Claro-COL", TV ORINOQUIA
+http://190.60.39.62:8000/play/93
+#EXTINF:-1 group-title="Claro-COL", TV+ HD
+http://190.60.39.62:8000/play/a0b0
+#EXTINF:-1 group-title="Claro-COL", TVE
+http://190.60.39.62:8000/play/a012
+#EXTINF:-1 group-title="Claro-COL", Teleantioquia
+http://190.60.39.62:8000/play/a04b
+#EXTINF:-1 group-title="Claro-COL", Telecaribe
+http://190.60.39.62:8000/play/a04m
+#EXTINF:-1 group-title="Claro-COL", Teleislas
+http://190.60.39.62:8000/play/a08b
+#EXTINF:-1 group-title="Claro-COL", Telenovelas
+http://190.60.39.62:8000/play/a0ap
+#EXTINF:-1 group-title="Claro-COL", Telepacifico
+http://190.60.39.62:8000/play/a04d
+#EXTINF:-1 group-title="Claro-COL", UPDATE
+http://190.60.39.62:8000/play/a075
+#EXTINF:-1 group-title="Claro-COL", Universal
+http://190.60.39.62:8000/play/a00n
+#EXTINF:-1 group-title="Claro-COL", ViaX
+http://190.60.39.62:8000/play/a02c
+#EXTINF:-1 group-title="Claro-COL", Warner
+http://190.60.39.62:8000/play/a01r
+#EXTINF:-1 group-title="Claro-COL", Win Sports+ HD
+http://190.60.39.62:8000/play/a0b8
+#EXTINF:-1 group-title="Claro-COL", Zona Latina
+http://190.60.39.62:8000/play/a00q
+#EXTINF:-1 group-title="Claro-COL", Zoom
+http://190.60.39.62:8000/play/a08a
+#EXTINF:-1 group-title="Claro-COL", suram
+http://190.60.39.62:8000/play/a0bb
+
+
+#EXTINF:-1  group-title="Lista 24", A&E
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487953
+#EXTINF:-1  group-title="Lista 24", ACC NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487954
+#EXTINF:-1  group-title="Lista 24", ACCU WEATHER
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487955
+#EXTINF:-1  group-title="Lista 24", ACTION MAX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487956
+#EXTINF:-1  group-title="Lista 24", AMC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487957
+#EXTINF:-1  group-title="Lista 24", AMERICAN HEROES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487958
+#EXTINF:-1  group-title="Lista 24", ANIMAL PLANET
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487959
+#EXTINF:-1  group-title="Lista 24", ASPIRE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487960
+#EXTINF:-1  group-title="Lista 24", AWE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487961
+#EXTINF:-1  group-title="Lista 24", AXS TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487962
+#EXTINF:-1  group-title="Lista 24", BABY FIRST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487963
+#EXTINF:-1  group-title="Lista 24", BBC AMERICA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487964
+#EXTINF:-1  group-title="Lista 24", BBC WORLD NEWS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487965
+#EXTINF:-1  group-title="Lista 24", BET
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487966
+#EXTINF:-1  group-title="Lista 24", BET HER
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487967
+#EXTINF:-1  group-title="Lista 24", BIG TEN NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487968
+#EXTINF:-1  group-title="Lista 24", BLOOMBERG TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487969
+#EXTINF:-1  group-title="Lista 24", BRAVO
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487970
+#EXTINF:-1  group-title="Lista 24", C-SPAN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487971
+#EXTINF:-1  group-title="Lista 24", C-SPAN 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487972
+#EXTINF:-1  group-title="Lista 24", CARTOON NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487973
+#EXTINF:-1  group-title="Lista 24", CBS SPORTS NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487974
+#EXTINF:-1  group-title="Lista 24", CHEDDAR BUSINESS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487975
+#EXTINF:-1  group-title="Lista 24", CINEMAX EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487976
+#EXTINF:-1  group-title="Lista 24", CMT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487977
+#EXTINF:-1  group-title="Lista 24", CNBC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487978
+#EXTINF:-1  group-title="Lista 24", CNN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487979
+#EXTINF:-1  group-title="Lista 24", CNN EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487980
+#EXTINF:-1  group-title="Lista 24", COMEDY CENTRAL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487981
+#EXTINF:-1  group-title="Lista 24", COMEDY TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487982
+#EXTINF:-1  group-title="Lista 24", COOKING CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487983
+#EXTINF:-1  group-title="Lista 24", CRIME & INVESTIGATION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487984
+#EXTINF:-1  group-title="Lista 24", DESTINATION AMERICA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487985
+#EXTINF:-1  group-title="Lista 24", DISCOVERY CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487986
+#EXTINF:-1  group-title="Lista 24", DISCOVERY LIFE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487987
+#EXTINF:-1  group-title="Lista 24", DISNEY CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487988
+#EXTINF:-1  group-title="Lista 24", DISNEY JUNIOR
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487989
+#EXTINF:-1  group-title="Lista 24", DISNEY XD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487990
+#EXTINF:-1  group-title="Lista 24", E!
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487991
+#EXTINF:-1  group-title="Lista 24", EPIX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487992
+#EXTINF:-1  group-title="Lista 24", EPIX 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487993
+#EXTINF:-1  group-title="Lista 24", EPIX HITS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487994
+#EXTINF:-1  group-title="Lista 24", ESPN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487995
+#EXTINF:-1  group-title="Lista 24", ESPN 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487996
+#EXTINF:-1  group-title="Lista 24", ESPN DEPORTES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487997
+#EXTINF:-1  group-title="Lista 24", ESPN NEWS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487998
+#EXTINF:-1  group-title="Lista 24", ESPN U
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/487999
+#EXTINF:-1  group-title="Lista 24", FM FUSE MUSIC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488000
+#EXTINF:-1  group-title="Lista 24", FOOD NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488001
+#EXTINF:-1  group-title="Lista 24", FOX BUSINESS NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488002
+#EXTINF:-1  group-title="Lista 24", FOX DEPORTES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488003
+#EXTINF:-1  group-title="Lista 24", FOX NEWS CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488004
+#EXTINF:-1  group-title="Lista 24", FOX SPORTS 1
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488005
+#EXTINF:-1  group-title="Lista 24", FOX SPORTS 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488006
+#EXTINF:-1  group-title="Lista 24", FREEFORM
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488007
+#EXTINF:-1  group-title="Lista 24", FUSE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488008
+#EXTINF:-1  group-title="Lista 24", FX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488009
+#EXTINF:-1  group-title="Lista 24", FX MOVIE CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488010
+#EXTINF:-1  group-title="Lista 24", FXX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488011
+#EXTINF:-1  group-title="Lista 24", FYI
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488012
+#EXTINF:-1  group-title="Lista 24", GALAVISION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488013
+#EXTINF:-1  group-title="Lista 24", GAME SHOW NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488014
+#EXTINF:-1  group-title="Lista 24", GOLTV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488015
+#EXTINF:-1  group-title="Lista 24", GREAT AMERICAN COUNTRY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488016
+#EXTINF:-1  group-title="Lista 24", HALLMARK CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488017
+#EXTINF:-1  group-title="Lista 24", HALLMARK DRAMA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488018
+#EXTINF:-1  group-title="Lista 24", HALLMARK MOVIES & MYSTERIES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488019
+#EXTINF:-1  group-title="Lista 24", HBO 2 EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488020
+#EXTINF:-1  group-title="Lista 24", HBO EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488021
+#EXTINF:-1  group-title="Lista 24", HBO FAMILY EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488022
+#EXTINF:-1  group-title="Lista 24", HBO LATINO
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488023
+#EXTINF:-1  group-title="Lista 24", HDNET MOVIES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488024
+#EXTINF:-1  group-title="Lista 24", HGTV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488025
+#EXTINF:-1  group-title="Lista 24", HISTORY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488026
+#EXTINF:-1  group-title="Lista 24", HISTORY EN ESPANOL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488027
+#EXTINF:-1  group-title="Lista 24", HLN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488028
+#EXTINF:-1  group-title="Lista 24", HOME SHOPPING NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488029
+#EXTINF:-1  group-title="Lista 24", IFC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488030
+#EXTINF:-1  group-title="Lista 24", INVESTIGATION DISCOVERY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488031
+#EXTINF:-1  group-title="Lista 24", JUSTICE CENTRAL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488032
+#EXTINF:-1  group-title="Lista 24", LIFETIME
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488033
+#EXTINF:-1  group-title="Lista 24", LIFETIME MOVIE NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488034
+#EXTINF:-1  group-title="Lista 24", LOGO TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488035
+#EXTINF:-1  group-title="Lista 24", MAGNOLIA NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488036
+#EXTINF:-1  group-title="Lista 24", MOTORTREND
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488037
+#EXTINF:-1  group-title="Lista 24", MSNBC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488038
+#EXTINF:-1  group-title="Lista 24", MTV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488039
+#EXTINF:-1  group-title="Lista 24", MTV 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488040
+#EXTINF:-1  group-title="Lista 24", MTV LIVE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488041
+#EXTINF:-1  group-title="Lista 24", NAT GEO WILD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488042
+#EXTINF:-1  group-title="Lista 24", NATIONAL GEOGRAPHIC CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488043
+#EXTINF:-1  group-title="Lista 24", NBC UNIVERSO
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488044
+#EXTINF:-1  group-title="Lista 24", NHL NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488045
+#EXTINF:-1  group-title="Lista 24", NICK JR
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488046
+#EXTINF:-1  group-title="Lista 24", NICKELODEON EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488047
+#EXTINF:-1  group-title="Lista 24", NICKTOONS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488048
+#EXTINF:-1  group-title="Lista 24", ONE AMERICAN NEWS NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488049
+#EXTINF:-1  group-title="Lista 24", OVATION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488050
+#EXTINF:-1  group-title="Lista 24", OWN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488051
+#EXTINF:-1  group-title="Lista 24", OXYGEN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488052
+#EXTINF:-1  group-title="Lista 24", PARAMOUNT NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488053
+#EXTINF:-1  group-title="Lista 24", POP
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488054
+#EXTINF:-1  group-title="Lista 24", QVC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488055
+#EXTINF:-1  group-title="Lista 24", QVC 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488056
+#EXTINF:-1  group-title="Lista 24", REELZ CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488057
+#EXTINF:-1  group-title="Lista 24", REVOLT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488058
+#EXTINF:-1  group-title="Lista 24", RFD-TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488059
+#EXTINF:-1  group-title="Lista 24", SCIENCE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488060
+#EXTINF:-1  group-title="Lista 24", SEC NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488061
+#EXTINF:-1  group-title="Lista 24", SHORTS TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488062
+#EXTINF:-1  group-title="Lista 24", SHOWTIME 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488063
+#EXTINF:-1  group-title="Lista 24", SHOWTIME EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488064
+#EXTINF:-1  group-title="Lista 24", SHOWTIME EXTREME
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488065
+#EXTINF:-1  group-title="Lista 24", SMITHSONIAN CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488066
+#EXTINF:-1  group-title="Lista 24", SPORTSMAN CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488067
+#EXTINF:-1  group-title="Lista 24", STARZ EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488068
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE ACTION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488069
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE BLACK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488070
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE CLASSIC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488071
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488072
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE FAMILY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488073
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE SUSPENSE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488074
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE WEST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488075
+#EXTINF:-1  group-title="Lista 24", STARZ ENCORE WESTERNS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488076
+#EXTINF:-1  group-title="Lista 24", SUNDANCE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488077
+#EXTINF:-1  group-title="Lista 24", SYFY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488078
+#EXTINF:-1  group-title="Lista 24", TASTEMADE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488079
+#EXTINF:-1  group-title="Lista 24", TBS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488080
+#EXTINF:-1  group-title="Lista 24", TEEN NICK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488081
+#EXTINF:-1  group-title="Lista 24", TENNIS CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488082
+#EXTINF:-1  group-title="Lista 24", THE WEATHER CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488083
+#EXTINF:-1  group-title="Lista 24", TLC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488084
+#EXTINF:-1  group-title="Lista 24", TNT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488085
+#EXTINF:-1  group-title="Lista 24", TRAVEL CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488086
+#EXTINF:-1  group-title="Lista 24", TRU TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488087
+#EXTINF:-1  group-title="Lista 24", TUDN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488088
+#EXTINF:-1  group-title="Lista 24", TURNER CLASSIC MOVIES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488089
+#EXTINF:-1  group-title="Lista 24", TV LAND
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488090
+#EXTINF:-1  group-title="Lista 24", TV ONE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488091
+#EXTINF:-1  group-title="Lista 24", TVG
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488092
+#EXTINF:-1  group-title="Lista 24", UNIVERSAL KIDS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488093
+#EXTINF:-1  group-title="Lista 24", UNIVISION EAST
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488094
+#EXTINF:-1  group-title="Lista 24", UP
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488095
+#EXTINF:-1  group-title="Lista 24", USA NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488096
+#EXTINF:-1  group-title="Lista 24", VH1
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488097
+#EXTINF:-1  group-title="Lista 24", VICE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488098
+#EXTINF:-1  group-title="Lista 24", WE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/488099
+#EXTM3U
+#EXTINF:-1  group-title="Lista 24", Galavision Atlanta HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410581
+#EXTINF:-1  group-title="Lista 24", Galavision East HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410582
+#EXTINF:-1  group-title="Lista 24", Galavision Fresno HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410583
+#EXTINF:-1  group-title="Lista 24", Galavision Houston HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410584
+#EXTINF:-1  group-title="Lista 24", Galavision Las Vegas HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410585
+#EXTINF:-1  group-title="Lista 24", Galavision Miami HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410586
+#EXTINF:-1  group-title="Lista 24", Galavision NY HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410587
+#EXTINF:-1  group-title="Lista 24", Galavision Philadelphia HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410588
+#EXTINF:-1  group-title="Lista 24", Galavision Sacramento HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410589
+#EXTINF:-1  group-title="Lista 24", Galavision San Antonio HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410590
+#EXTINF:-1  group-title="Lista 24", Galavision San Francisco HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410591
+#EXTINF:-1  group-title="Lista 24", Galavision Salt Lake HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410592
+#EXTINF:-1  group-title="Lista 24", Galavision West HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410593
+#EXTINF:-1  group-title="Lista 24", Telemundo Boston
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410594
+#EXTINF:-1  group-title="Lista 24", Telemundo Chicago
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410595
+#EXTINF:-1  group-title="Lista 24", Telemundo Dallas
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410596
+#EXTINF:-1  group-title="Lista 24", Telemundo Denver
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410597
+#EXTINF:-1  group-title="Lista 24", Telemundo Fresno
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410598
+#EXTINF:-1  group-title="Lista 24", Telemundo Houston
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410600
+#EXTINF:-1  group-title="Lista 24", Telemundo Internacional
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410601
+#EXTINF:-1  group-title="Lista 24", Telemundo Internacional Full HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410602
+#EXTINF:-1  group-title="Lista 24", Telemundo Las Vegas
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410603
+#EXTINF:-1  group-title="Lista 24", Telemundo Los Angeles
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410604
+#EXTINF:-1  group-title="Lista 24", Telemundo Miami
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410605
+#EXTINF:-1  group-title="Lista 24", Telemundo New York
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410606
+#EXTINF:-1  group-title="Lista 24", Telemundo Philadelphia
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410607
+#EXTINF:-1  group-title="Lista 24", Telemundo Phoenix
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410608
+#EXTINF:-1  group-title="Lista 24", Telemundo San Antonio
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410609
+#EXTINF:-1  group-title="Lista 24", Telemundo San francisco
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410610
+#EXTINF:-1  group-title="Lista 24", Telemundo Tampa
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410611
+#EXTINF:-1  group-title="Lista 24", Telemundo Tucson
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410612
+#EXTINF:-1  group-title="Lista 24", Unimas Albuquerque Santa Fe HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410613
+#EXTINF:-1  group-title="Lista 24", Unimas Atlanta HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410614
+#EXTINF:-1  group-title="Lista 24", Unimas Austin HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410615
+#EXTINF:-1  group-title="Lista 24", Unimas Cleveland HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410616
+#EXTINF:-1  group-title="Lista 24", Unimas East HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410617
+#EXTINF:-1  group-title="Lista 24", Unimas Fresno HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410618
+#EXTINF:-1  group-title="Lista 24", Unimas Houston HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410619
+#EXTINF:-1  group-title="Lista 24", Unimas Miami HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410621
+#EXTINF:-1  group-title="Lista 24", Unimas NY HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410622
+#EXTINF:-1  group-title="Lista 24", Unimas Philadelphia HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410623
+#EXTINF:-1  group-title="Lista 24", Unimas Phoenix HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410624
+#EXTINF:-1  group-title="Lista 24", Unimas Raleigh HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410625
+#EXTINF:-1  group-title="Lista 24", Unimas Sacramento HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410626
+#EXTINF:-1  group-title="Lista 24", Unimas San Antonio HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410628
+#EXTINF:-1  group-title="Lista 24", Unimas San Francisco HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410629
+#EXTINF:-1  group-title="Lista 24", Unimas West HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410630
+#EXTINF:-1  group-title="Lista 24", Univision Albuquerque Santa Fe HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410631
+#EXTINF:-1  group-title="Lista 24", Univision Atlanta HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410632
+#EXTINF:-1  group-title="Lista 24", Univision Austin HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410633
+#EXTINF:-1  group-title="Lista 24", Univision Chicago HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410634
+#EXTINF:-1  group-title="Lista 24", Univision Cleveland HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410635
+#EXTINF:-1  group-title="Lista 24", Univision Dallas HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410636
+#EXTINF:-1  group-title="Lista 24", Univision East HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410637
+#EXTINF:-1  group-title="Lista 24", Univision Fort Lauderdale HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410638
+#EXTINF:-1  group-title="Lista 24", Univision HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410639
+#EXTINF:-1  group-title="Lista 24", Univision Houston HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410640
+#EXTINF:-1  group-title="Lista 24", Univision Los Angeles HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410641
+#EXTINF:-1  group-title="Lista 24", Univision Miami HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410642
+#EXTINF:-1  group-title="Lista 24", Univision Noticias HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410643
+#EXTINF:-1  group-title="Lista 24", Univision NY HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410644
+#EXTINF:-1  group-title="Lista 24", Univision Philadelphia HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410645
+#EXTINF:-1  group-title="Lista 24", Univision Phoenix HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410646
+#EXTINF:-1  group-title="Lista 24", Univision Puerto Rico HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410647
+#EXTINF:-1  group-title="Lista 24", Univision Raleigh HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410648
+#EXTINF:-1  group-title="Lista 24", Univision Salt Lake HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410649
+#EXTINF:-1  group-title="Lista 24", Univision San Antonio HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410650
+#EXTINF:-1  group-title="Lista 24", Univision San Francisco HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410651
+#EXTINF:-1  group-title="Lista 24", Univision West HD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/410652
+#EXTINF:-1  group-title="Lista 24", UNIVISION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417948
+#EXTINF:-1  group-title="Lista 24", Galavision (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419333
+#EXTINF:-1  group-title="Lista 24", Universo (East)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419367
+#EXTINF:-1  group-title="Lista 24", Universo (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419368
+#EXTINF:-1  group-title="Lista 24", USA: PBS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417942
+
+
+#EXTM3U
+#EXTINF:-1  group-title="Lista 24", US: A&E
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417871
+#EXTINF:-1  group-title="Lista 24", US: A&E (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419320
+#EXTINF:-1  group-title="Lista 24", US: ABC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417950
+#EXTINF:-1  group-title="Lista 24", US: ABC (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419373
+#EXTINF:-1  group-title="Lista 24", US: ADULT SWIM
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417926
+#EXTINF:-1  group-title="Lista 24", US: AMC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417872
+#EXTINF:-1  group-title="Lista 24", US: AMC (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419279
+#EXTINF:-1  group-title="Lista 24", US: AMC Presents
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417953
+#EXTINF:-1  group-title="Lista 24", US: AMERICAN HEROES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417873
+#EXTINF:-1  group-title="Lista 24", US: AMG TV 
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/472563
+#EXTINF:-1  group-title="Lista 24", US: ANIMAL PLANET
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417996
+#EXTINF:-1  group-title="Lista 24", US: Animal Planet (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419321
+#EXTINF:-1  group-title="Lista 24", US: ANTENNA TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417954
+#EXTINF:-1  group-title="Lista 24", US: ASPIRE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417874
+#EXTINF:-1  group-title="Lista 24", US: AWE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417875
+#EXTINF:-1  group-title="Lista 24", US: AXS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417876
+#EXTINF:-1  group-title="Lista 24", US: BBC AMERICA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417877
+#EXTINF:-1  group-title="Lista 24", US: BET
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417879
+#EXTINF:-1  group-title="Lista 24", US: BET (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419374
+#EXTINF:-1  group-title="Lista 24", US: BET HER
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417878
+#EXTINF:-1  group-title="Lista 24", US: BET HER (WEST)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419375
+#EXTINF:-1  group-title="Lista 24", US: BET Jams
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417955
+#EXTINF:-1  group-title="Lista 24", US: BET SOUL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417956
+#EXTINF:-1  group-title="Lista 24", US: BOUNCE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417927
+#EXTINF:-1  group-title="Lista 24", US: BRAVO
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417880
+#EXTINF:-1  group-title="Lista 24", US: Bravo (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419322
+#EXTINF:-1  group-title="Lista 24", US: BUZZR
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417958
+#EXTINF:-1  group-title="Lista 24", US: CBS 
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/424635
+#EXTINF:-1  group-title="Lista 24", US: CBS (west)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/424636
+#EXTINF:-1  group-title="Lista 24", US: CLEO TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/441646
+#EXTINF:-1  group-title="Lista 24", US: CMT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417881
+#EXTINF:-1  group-title="Lista 24", US: CMT (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419323
+#EXTINF:-1  group-title="Lista 24", US: COMEDY CENTRAL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417882
+#EXTINF:-1  group-title="Lista 24", US: Comedy Central (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419324
+#EXTINF:-1  group-title="Lista 24", US: COMET TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417928
+#EXTINF:-1  group-title="Lista 24", US: COOKING CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417987
+#EXTINF:-1  group-title="Lista 24", US: COURT TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418021
+#EXTINF:-1  group-title="Lista 24", US: COWBOY CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417930
+#EXTINF:-1  group-title="Lista 24", US: COZI TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417931
+#EXTINF:-1  group-title="Lista 24", US: CRIME & INVESTIGATION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418022
+#EXTINF:-1  group-title="Lista 24", US: DABL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417986
+#EXTINF:-1  group-title="Lista 24", US: Dabl (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419325
+#EXTINF:-1  group-title="Lista 24", US: DECADES
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/423263
+#EXTINF:-1  group-title="Lista 24", US: DESTINATION AMERICA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417999
+#EXTINF:-1  group-title="Lista 24", US: DISCOVERY CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418001
+#EXTINF:-1  group-title="Lista 24", US: Discovery Channel (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419326
+#EXTINF:-1  group-title="Lista 24", US: DISCOVERY FAMILY CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418000
+#EXTINF:-1  group-title="Lista 24", US: DISCOVERY LIFE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418002
+#EXTINF:-1  group-title="Lista 24", US: DOG TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417932
+#EXTINF:-1  group-title="Lista 24", US: Dust (S)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/494827
+#EXTINF:-1  group-title="Lista 24", US: E! ENTERTAINMENT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417884
+#EXTINF:-1  group-title="Lista 24", US: FETV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/427248
+#EXTINF:-1  group-title="Lista 24", US: FOOD NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417885
+#EXTINF:-1  group-title="Lista 24", US: Food Network (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419327
+#EXTINF:-1  group-title="Lista 24", US: FOX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417988
+#EXTINF:-1  group-title="Lista 24", US: FOX (west)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/424637
+#EXTINF:-1  group-title="Lista 24", US: FREEFORM
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417886
+#EXTINF:-1  group-title="Lista 24", US: Freeform (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419328
+#EXTINF:-1  group-title="Lista 24", US: FUSE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417887
+#EXTINF:-1  group-title="Lista 24", US: FX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417888
+#EXTINF:-1  group-title="Lista 24", US: FX (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419329
+#EXTINF:-1  group-title="Lista 24", US: FXX
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417889
+#EXTINF:-1  group-title="Lista 24", US: FXX (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419330
+#EXTINF:-1  group-title="Lista 24", US: FYI
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417890
+#EXTINF:-1  group-title="Lista 24", US: FYI (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419331
+#EXTINF:-1  group-title="Lista 24", US: GAME SHOW CENTRAL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417970
+#EXTINF:-1  group-title="Lista 24", US: GetTV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417971
+#EXTINF:-1  group-title="Lista 24", US: GREAT AMERICAN COUNTRY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418007
+#EXTINF:-1  group-title="Lista 24", US: GRIT TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417973
+#EXTINF:-1  group-title="Lista 24", US: GSN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417891
+#EXTINF:-1  group-title="Lista 24", US: GSN (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419334
+#EXTINF:-1  group-title="Lista 24", US: HALLMARK CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417892
+#EXTINF:-1  group-title="Lista 24", US: Hallmark Channel (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419335
+#EXTINF:-1  group-title="Lista 24", US: HALLMARK DRAMA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417937
+#EXTINF:-1  group-title="Lista 24", US: HEROES AND ICONS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418012
+#EXTINF:-1  group-title="Lista 24", US: HGTV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417997
+#EXTINF:-1  group-title="Lista 24", US: HGTV (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419336
+#EXTINF:-1  group-title="Lista 24", US: HISTORY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417998
+#EXTINF:-1  group-title="Lista 24", US: History (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419337
+#EXTINF:-1  group-title="Lista 24", US: HSN (SP)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/494826
+#EXTINF:-1  group-title="Lista 24", US: IFC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417893
+#EXTINF:-1  group-title="Lista 24", US: IFC (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419338
+#EXTINF:-1  group-title="Lista 24", US: INSP
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417938
+#EXTINF:-1  group-title="Lista 24", US: INVESTIGATION DISCOVERY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418004
+#EXTINF:-1  group-title="Lista 24", US: Investigation Discovery (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419339
+#EXTINF:-1  group-title="Lista 24", US: ION Plus
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417975
+#EXTINF:-1  group-title="Lista 24", US: ION TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417939
+#EXTINF:-1  group-title="Lista 24", US: LAFF TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417976
+#EXTINF:-1  group-title="Lista 24", US: LIFETIME
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417894
+#EXTINF:-1  group-title="Lista 24", US: Lifetime (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419340
+#EXTINF:-1  group-title="Lista 24", US: LOGO
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417895
+#EXTINF:-1  group-title="Lista 24", US: Logo (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419355
+#EXTINF:-1  group-title="Lista 24", US: MAGNOLIA NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418003
+#EXTINF:-1  group-title="Lista 24", US: ME TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417978
+#EXTINF:-1  group-title="Lista 24", US: MILITARY HISTORY CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418028
+#EXTINF:-1  group-title="Lista 24", US: MTV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417898
+#EXTINF:-1  group-title="Lista 24", US: MTV (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419342
+#EXTINF:-1  group-title="Lista 24", US: MTV 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417896
+#EXTINF:-1  group-title="Lista 24", US: MTV CLASSIC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417897
+#EXTINF:-1  group-title="Lista 24", US: MTV Classic (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419343
+#EXTINF:-1  group-title="Lista 24", US: MTV U
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417940
+#EXTINF:-1  group-title="Lista 24", US: MTV2 (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419344
+#EXTINF:-1  group-title="Lista 24", US: NAT GEO WILD
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418005
+#EXTINF:-1  group-title="Lista 24", US: National Geographic (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419345
+#EXTINF:-1  group-title="Lista 24", US: NATIONAL GEOGRAPHIC CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418006
+#EXTINF:-1  group-title="Lista 24", US: NBC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/424639
+#EXTINF:-1  group-title="Lista 24", US: NBC (west)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/424638
+#EXTINF:-1  group-title="Lista 24", US: OUTDOOR CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418014
+#EXTINF:-1  group-title="Lista 24", US: OUTSIDE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417941
+#EXTINF:-1  group-title="Lista 24", US: OVATION
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417899
+#EXTINF:-1  group-title="Lista 24", US: OWN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417900
+#EXTINF:-1  group-title="Lista 24", US: OXYGEN
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417901
+#EXTINF:-1  group-title="Lista 24", US: Oxygen (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419346
+#EXTINF:-1  group-title="Lista 24", US: PARAMOUNT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417902
+#EXTINF:-1  group-title="Lista 24", US: Paramount Network (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419347
+#EXTINF:-1  group-title="Lista 24", US: POP
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417903
+#EXTINF:-1  group-title="Lista 24", US: POP (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419349
+#EXTINF:-1  group-title="Lista 24", US: PURSUIT CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417944
+#EXTINF:-1  group-title="Lista 24", US: QVC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417905
+#EXTINF:-1  group-title="Lista 24", US: QVC 2
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417904
+#EXTINF:-1  group-title="Lista 24", US: REVOLT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417907
+#EXTINF:-1  group-title="Lista 24", US: RFD TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417908
+#EXTINF:-1  group-title="Lista 24", US: RIDE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417945
+#EXTINF:-1  group-title="Lista 24", US: SMITHSONIAN CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417909
+#EXTINF:-1  group-title="Lista 24", US: START TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/424885
+#EXTINF:-1  group-title="Lista 24", US: SUNDANCE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417910
+#EXTINF:-1  group-title="Lista 24", US: SYFY
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417911
+#EXTINF:-1  group-title="Lista 24", US: SYFY (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419359
+#EXTINF:-1  group-title="Lista 24", US: TBS
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417913
+#EXTINF:-1  group-title="Lista 24", US: TBS (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419360
+#EXTINF:-1  group-title="Lista 24", US: THE OUTDOOR COOKING CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/418016
+#EXTINF:-1  group-title="Lista 24", US: TLC
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417914
+#EXTINF:-1  group-title="Lista 24", US: TLC (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419361
+#EXTINF:-1  group-title="Lista 24", US: TNT
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417915
+#EXTINF:-1  group-title="Lista 24", US: TNT (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419362
+#EXTINF:-1  group-title="Lista 24", US: TRAVEL CHANNEL
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417916
+#EXTINF:-1  group-title="Lista 24", US: Travel Channel (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419365
+#EXTINF:-1  group-title="Lista 24", US: TRU TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417917
+#EXTINF:-1  group-title="Lista 24", US: TV LAND
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417918
+#EXTINF:-1  group-title="Lista 24", US: TV Land (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419366
+#EXTINF:-1  group-title="Lista 24", US: TV ONE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417919
+#EXTINF:-1  group-title="Lista 24", US: UP TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417920
+#EXTINF:-1  group-title="Lista 24", US: USA NETWORK
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417921
+#EXTINF:-1  group-title="Lista 24", US: USA NETWORK (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419369
+#EXTINF:-1  group-title="Lista 24", US: VH1
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417922
+#EXTINF:-1  group-title="Lista 24", US: VH1 (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419370
+#EXTINF:-1  group-title="Lista 24", US: VICE
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417923
+#EXTINF:-1  group-title="Lista 24", US: Vice\u00a0 (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419371
+#EXTINF:-1  group-title="Lista 24", US: WE TV
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417924
+#EXTINF:-1  group-title="Lista 24", US: WE tv (West)
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/419372
+#EXTINF:-1  group-title="Lista 24", US: WGN AMERICA
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/417925
+
